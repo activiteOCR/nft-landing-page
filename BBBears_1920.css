@@ -1,0 +1,4038 @@
+.mediaViewInfo {
+	--web-view-name: BBBears_1920;
+	--web-view-id: BBBears_1920;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-show-navigation-controls: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: BBBears_1920;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.BBBears_1920_Class {
+	position: absolute;
+	width: 1920px;
+	height: 7302px;
+	background: radial-gradient(rgba(175,171,41,1) 0%, rgba(146,64,161,1) 100%);
+	overflow: hidden;
+	--web-view-name: BBBears_1920;
+	--web-view-id: BBBears_1920;
+	--web-scale-on-resize: true;
+	--web-navigate-on-keypress: true;
+	--web-refresh-for-changes: true;
+	--web-show-navigation-controls: true;
+	--web-enable-deep-linking: true;
+}
+.METADATA_Class {
+	display: none;
+	left: 0px;
+	top: -9px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Footer_Strip_Class {
+	position: absolute;
+	width: 1640px;
+	height: 315px;
+	left: 140px;
+	top: 6987px;
+	overflow: visible;
+}
+.METADATA_k_Class {
+	display: none;
+	left: 1704px;
+	top: -3148px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Background_STYLESTYLE2_Class {
+	fill: rgba(18,18,18,1);
+}
+.Background_STYLESTYLE2 {
+	position: absolute;
+	overflow: visible;
+	width: 1640px;
+	height: 315px;
+	left: 0px;
+	top: 0px;
+}
+.Terms_of_Service_STYLESTYLE2TA_Class {
+	left: 1384px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(204,204,204,1);
+	letter-spacing: 0.3px;
+}
+.Privacy_Policy_STYLESTYLE2TAGU_Class {
+	left: 1148px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(204,204,204,1);
+	letter-spacing: 0.3px;
+}
+.Copyright_STYLESTYLE2TAGUI_S_Class {
+	left: 145px;
+	top: 148px;
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(204,204,204,1);
+	letter-spacing: 0.3px;
+}
+.Footer_Class {
+	position: absolute;
+	width: 1640px;
+	height: 817px;
+	left: 140px;
+	top: 6170px;
+	overflow: visible;
+}
+.METADATA_q_Class {
+	display: none;
+	left: 1704px;
+	top: -2651px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Background_STYLESTYLE3_Class {
+	fill: rgba(52,255,200,1);
+}
+.Background_STYLESTYLE3 {
+	position: absolute;
+	overflow: visible;
+	width: 1640px;
+	height: 817px;
+	left: 0px;
+	top: 0px;
+}
+.Description_STYLESTYLE3TAGP_Class {
+	left: 143px;
+	top: 323px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	height: 74px;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(21,103,80,1);
+}
+.Company_STYLESTYLE3TAGH4_Class {
+	left: 143px;
+	top: 217px;
+	position: absolute;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	line-height: 44px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(34,34,45,1);
+	letter-spacing: 0.04px;
+}
+.Circle_Button__Class {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 327px;
+	top: 543px;
+	overflow: visible;
+}
+.METADATA_v_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_Class {
+	fill: rgba(255,255,255,1);
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.Icon__Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 14px;
+	top: 14px;
+	overflow: visible;
+}
+.METADATA_y_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_ICONfeatherlinkedinSIZEME_Class {
+	opacity: 0;
+	fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeatherlinkedinSIZEME {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_Class {
+	position: absolute;
+	width: 16.666px;
+	height: 15.833px;
+	left: 1.989px;
+	top: 1.473px;
+	overflow: visible;
+}
+.Path_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path {
+	overflow: visible;
+	position: absolute;
+	width: 11.667px;
+	height: 12.5px;
+	left: 6.666px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rect_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rect {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 11.667px;
+	left: 0px;
+	top: 5.833px;
+}
+.Path__Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_ {
+	position: absolute;
+	overflow: visible;
+	width: 5px;
+	height: 5px;
+	left: 0px;
+	top: 0px;
+}
+.Circle_Button___Class {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 405px;
+	top: 543px;
+	overflow: visible;
+}
+.METADATA__Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY__Class {
+	fill: rgba(255,255,255,1);
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_ {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.Icon___Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 14px;
+	top: 14px;
+	overflow: visible;
+}
+.METADATA_ba_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_ICONfeatheryoutubeSIZEMED_Class {
+	opacity: 0;
+	fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeatheryoutubeSIZEMED {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_ba_Class {
+	position: absolute;
+	width: 18.335px;
+	height: 12.884px;
+	left: 0.493px;
+	top: 3.139px;
+	overflow: visible;
+}
+.Path_bb_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_bb {
+	overflow: visible;
+	position: absolute;
+	width: 20.001px;
+	height: 14.551px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_bc_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_bc {
+	overflow: visible;
+	position: absolute;
+	width: 6.458px;
+	height: 7.116px;
+	left: 7.292px;
+	top: 3.734px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Circle_Button__bd_Class {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 207px;
+	top: 543px;
+	overflow: visible;
+}
+.METADATA_be_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bf_Class {
+	fill: rgba(255,255,255,1);
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bf {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.Icon__bg_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 14px;
+	top: 14px;
+	overflow: visible;
+}
+.METADATA_bh_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_ICONfeathertwitterSIZEMED_Class {
+	opacity: 0;
+	fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeathertwitterSIZEMED {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_bj_Class {
+	position: absolute;
+	width: 18.334px;
+	height: 14.953px;
+	left: 0.833px;
+	top: 2.297px;
+	overflow: visible;
+}
+.Path_bk_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_bk {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 16.785px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Circle_Button__bl_Class {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 143px;
+	top: 543px;
+	overflow: visible;
+}
+.METADATA_bm_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bn_Class {
+	fill: rgba(255,255,255,1);
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bn {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.Icon__bo_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 14px;
+	top: 14px;
+	overflow: visible;
+}
+.METADATA_bp_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_ICONfeatherfacebookSIZEME_Class {
+	opacity: 0;
+	fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeatherfacebookSIZEME {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_br_Class {
+	position: absolute;
+	width: 9.167px;
+	height: 16.666px;
+	left: 5.833px;
+	top: 1.473px;
+	overflow: visible;
+}
+.Path_bs_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_bs {
+	overflow: visible;
+	position: absolute;
+	width: 10.833px;
+	height: 18.333px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Circle_Button__bt_Class {
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 481px;
+	top: 543px;
+	overflow: visible;
+}
+.METADATA_bu_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bv_Class {
+	fill: rgba(255,255,255,1);
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bv {
+	position: absolute;
+	overflow: visible;
+	width: 48px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.Icon__bw_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 14px;
+	top: 14px;
+	overflow: visible;
+}
+.METADATA_bx_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_ICONfeatherphoneSIZEMEDIU_Class {
+	opacity: 0;
+	fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeatherphoneSIZEMEDIU {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_bz_Class {
+	position: absolute;
+	width: 16.573px;
+	height: 16.607px;
+	left: 2.664px;
+	top: 1.473px;
+	overflow: visible;
+}
+.Path_b_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_b {
+	overflow: visible;
+	position: absolute;
+	width: 18.241px;
+	height: 18.275px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Service_STYLESTYLE3TAGUI_L_Class {
+	left: 1065px;
+	top: 571px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Service_STYLESTYLE3TAGUI_L_b_Class {
+	left: 1065px;
+	top: 493px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Service_STYLESTYLE3TAGUI_L_ca_Class {
+	left: 1065px;
+	top: 413px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Service_STYLESTYLE3TAGUI_L_cb_Class {
+	left: 1065px;
+	top: 334px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Services_STYLESTYLE3TAGH5_Class {
+	left: 1069px;
+	top: 222px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(34,34,45,1);
+}
+.Product_STYLESTYLE3TAGUI_L_Class {
+	left: 843px;
+	top: 571px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Product_STYLESTYLE3TAGUI_L_b_Class {
+	left: 843px;
+	top: 493px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Product_STYLESTYLE3TAGUI_L_ca_Class {
+	left: 843px;
+	top: 413px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Product_STYLESTYLE3TAGUI_L_cb_Class {
+	left: 843px;
+	top: 334px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Products_STYLESTYLE3TAGH5_Class {
+	left: 847px;
+	top: 222px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(34,34,45,1);
+}
+.Resource_STYLESTYLE3TAGUI_L_Class {
+	left: 1283px;
+	top: 571px;
+	position: absolute;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Resource_STYLESTYLE3TAGUI_L_cc_Class {
+	left: 1285px;
+	top: 493px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Resource_STYLESTYLE3TAGUI_L_cd_Class {
+	left: 1283px;
+	top: 413px;
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Resource_STYLESTYLE3TAGUI_L_ce_Class {
+	left: 1283px;
+	top: 334px;
+	position: absolute;
+	overflow: visible;
+	width: 49px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(34,34,45,1);
+}
+.Resources_STYLESTYLE3TAGH5_Class {
+	left: 1337px;
+	top: 222px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(34,34,45,1);
+}
+.Newsletter_Class {
+	position: absolute;
+	width: 1640px;
+	height: 809px;
+	left: 140px;
+	top: 5361px;
+	overflow: visible;
+}
+.METADATA_ch_Class {
+	display: none;
+	left: -46px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Background_Class {
+	fill: rgba(33,33,33,1);
+}
+.Background {
+	position: absolute;
+	overflow: visible;
+	width: 1640px;
+	height: 809px;
+	left: 0px;
+	top: 0px;
+}
+.Input__Class {
+	position: absolute;
+	width: 368px;
+	height: 48px;
+	left: 535px;
+	top: 502px;
+	overflow: visible;
+}
+.METADATA_ck_Class {
+	display: none;
+	left: -658px;
+	top: -254px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSDefaultST_Class {
+	fill: rgba(47,47,47,1);
+}
+.Area_DISPLAY_ELEMENTSDefaultST {
+	position: absolute;
+	overflow: visible;
+	width: 368px;
+	height: 48px;
+	left: 0px;
+	top: 0px;
+}
+.Value_Class {
+	left: 16px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(242,243,247,1);
+}
+.Label_Class {
+	display: none;
+	left: 0px;
+	top: -26px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(242,243,247,1);
+	letter-spacing: 0.4px;
+}
+.Icon__co_Class {
+	position: absolute;
+	width: 778.26px;
+	height: 268.581px;
+	left: -424.26px;
+	top: -233.581px;
+	display: none;
+	overflow: visible;
+}
+.METADATA_cp_Class {
+	display: none;
+	left: -2.5px;
+	top: -2.5px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSDefaultIC_Class {
+	opacity: 0;
+	fill: rgba(253,73,198,0.349);
+}
+.Area_DISPLAY_ELEMENTSDefaultIC {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 758.26px;
+	top: 248.581px;
+}
+.Icon_cr_Class {
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_cs_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(62,62,62,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_cs {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 0px;
+	top: 0px;
+}
+.Line_Class {
+	fill: transparent;
+	stroke: rgba(62,62,62,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line {
+	overflow: visible;
+	position: absolute;
+	width: 5.982px;
+	height: 5.982px;
+	left: 11.375px;
+	top: 11.375px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Button__Class {
+	position: absolute;
+	width: 144px;
+	height: 48px;
+	left: 983.051px;
+	top: 502.113px;
+	overflow: visible;
+}
+.METADATA_cv_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE {
+	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+.Label_cx_Class {
+	left: 34px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(33,33,33,1);
+}
+.Icon__cy_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 108px;
+	top: 14px;
+	display: none;
+	overflow: visible;
+}
+.METADATA_cz_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_DISPLAY_ELEMENTSLabelICON {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_c_Class {
+	position: absolute;
+	width: 17.42px;
+	height: 15.193px;
+	left: 1.291px;
+	top: 2.499px;
+	overflow: visible;
+}
+.Path_c_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_c {
+	overflow: visible;
+	position: absolute;
+	width: 19.086px;
+	height: 16.86px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Duis_aute_irure_dolo_Class {
+	left: 603px;
+	top: 369px;
+	position: absolute;
+	overflow: visible;
+	width: 437px;
+	height: 22px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(238,238,238,1);
+}
+.Newsletter_TAGH4_Class {
+	left: 735px;
+	top: 256px;
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 43px;
+	line-height: 44px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(238,238,238,1);
+	letter-spacing: 0.04px;
+}
+.Promotion_Box_Class {
+	position: absolute;
+	width: 1640px;
+	height: 1073px;
+	left: 140px;
+	top: 4288px;
+	overflow: visible;
+}
+.METADATA_c_Class {
+	display: none;
+	left: -46.675px;
+	top: -1960.384px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Image__Class {
+	position: absolute;
+	width: 1640px;
+	height: 1073px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_da_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Placement_Area_ASSETdesktoppan_Class {
+	position: absolute;
+	width: 1640px;
+	height: 1073px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Lorem_ipsum_dolor_sit_amet_con_Class {
+	left: 499px;
+	top: 370px;
+	position: absolute;
+	overflow: visible;
+	width: 645px;
+	white-space: nowrap;
+	line-height: 44px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(238,238,238,1);
+	letter-spacing: 0.04px;
+}
+.We_believe_that_payments_is_a__Class {
+	left: 530px;
+	top: 539px;
+	position: absolute;
+	overflow: visible;
+	width: 583px;
+	height: 44px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(238,238,238,1);
+}
+.Button__dc_Class {
+	position: absolute;
+	width: 144px;
+	height: 48px;
+	left: 749px;
+	top: 666px;
+	overflow: visible;
+}
+.METADATA_dd_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_de_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_de {
+	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+.Label_df_Class {
+	left: 30px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(33,33,33,1);
+}
+.Icon__dg_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 108px;
+	top: 14px;
+	display: none;
+	overflow: visible;
+}
+.METADATA_dh_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_di_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_DISPLAY_ELEMENTSLabelICON_di {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_dj_Class {
+	position: absolute;
+	width: 17.42px;
+	height: 15.193px;
+	left: 0.341px;
+	top: 2.666px;
+	overflow: visible;
+}
+.Path_dk_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_dk {
+	overflow: visible;
+	position: absolute;
+	width: 19.086px;
+	height: 16.86px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Featured_Solutions_Class {
+	position: absolute;
+	width: 1640px;
+	height: 1045px;
+	left: 140px;
+	top: 3243px;
+	overflow: visible;
+}
+.METADATA_dm_Class {
+	display: none;
+	left: -47px;
+	top: -2495px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Background_dn_Class {
+	fill: rgba(33,33,33,1);
+}
+.Background_dn {
+	position: absolute;
+	overflow: visible;
+	width: 1640px;
+	height: 1045px;
+	left: 0px;
+	top: 0px;
+}
+.Content_Block_Class {
+	position: absolute;
+	width: 344px;
+	height: 323px;
+	left: 143px;
+	top: 642px;
+	overflow: visible;
+}
+.METADATA_dp_Class {
+	display: none;
+	left: -23px;
+	top: 4.215px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.H6_TAGH5_Class {
+	left: 123px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(238,238,238,1);
+}
+.H6_TAGP_Class {
+	left: 0px;
+	top: 153px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	height: 74px;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(167,167,173,1);
+}
+.Circle_Button__ds_Class {
+	position: absolute;
+	width: 56px;
+	height: 56px;
+	left: 144px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_dt_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_SIZELARGESTATEDEFAULTSTYL_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_SIZELARGESTATEDEFAULTSTYL {
+	position: absolute;
+	overflow: visible;
+	width: 56px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+.Icon__dv_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 16px;
+	top: 16px;
+	overflow: visible;
+}
+.METADATA_dw_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_ICONfeatheranchorSIZELARG_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_ICONfeatheranchorSIZELARG {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_dy_Class {
+	position: absolute;
+	width: 20px;
+	height: 20.343px;
+	left: 2px;
+	top: 2px;
+	overflow: visible;
+}
+.Path_dz_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_dz {
+	position: absolute;
+	overflow: visible;
+	width: 8px;
+	height: 8px;
+	left: 7px;
+	top: 0px;
+}
+.Line_d_Class {
+	fill: transparent;
+	stroke: rgba(33,33,33,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_d {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 16px;
+	left: 10px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_d_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_d {
+	overflow: visible;
+	position: absolute;
+	width: 22px;
+	height: 12px;
+	left: 0px;
+	top: 10.343px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Button__d_Class {
+	position: absolute;
+	width: 144px;
+	height: 48px;
+	left: 100px;
+	top: 275px;
+	overflow: visible;
+}
+.METADATA_d_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_d_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_d {
+	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+.Label_d_Class {
+	left: 30px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(33,33,33,1);
+}
+.Icon__d_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 108px;
+	top: 14px;
+	display: none;
+	overflow: visible;
+}
+.METADATA_ea_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_d_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_DISPLAY_ELEMENTSLabelICON_d {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_d_Class {
+	position: absolute;
+	width: 17.42px;
+	height: 15.193px;
+	left: 1.291px;
+	top: 2.842px;
+	overflow: visible;
+}
+.Path_ea_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_ea {
+	overflow: visible;
+	position: absolute;
+	width: 19.086px;
+	height: 16.86px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Content_Block_eb_Class {
+	position: absolute;
+	width: 344px;
+	height: 323px;
+	left: 649px;
+	top: 642px;
+	overflow: visible;
+}
+.METADATA_ec_Class {
+	display: none;
+	left: -23.941px;
+	top: 4.215px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.H6_TAGH5_ed_Class {
+	left: 123px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(238,238,238,1);
+}
+.H6_TAGP_ee_Class {
+	left: 0px;
+	top: 153px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	height: 74px;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(167,167,173,1);
+}
+.Circle_Button__ef_Class {
+	position: absolute;
+	width: 56px;
+	height: 56px;
+	left: 144px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_eg_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_SIZELARGESTATEDEFAULTSTYL_eh_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_SIZELARGESTATEDEFAULTSTYL_eh {
+	position: absolute;
+	overflow: visible;
+	width: 56px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+.Icon__ei_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 16px;
+	top: 16px;
+	overflow: visible;
+}
+.METADATA_ej_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_ICONfeatherflagSIZELARGES_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_ICONfeatherflagSIZELARGES {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_el_Class {
+	position: absolute;
+	width: 16px;
+	height: 19.657px;
+	left: 3.059px;
+	top: 2.343px;
+	overflow: visible;
+}
+.Path_em_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_em {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_en_Class {
+	fill: transparent;
+	stroke: rgba(33,33,33,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_en {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 9px;
+	left: 0.941px;
+	top: 12.657px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Button__eo_Class {
+	position: absolute;
+	width: 144px;
+	height: 48px;
+	left: 100px;
+	top: 275px;
+	overflow: visible;
+}
+.METADATA_ep_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_eq_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_eq {
+	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+.Label_er_Class {
+	left: 30px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(33,33,33,1);
+}
+.Icon__es_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 108px;
+	top: 14px;
+	display: none;
+	overflow: visible;
+}
+.METADATA_et_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_eu_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_DISPLAY_ELEMENTSLabelICON_eu {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_ev_Class {
+	position: absolute;
+	width: 17.42px;
+	height: 15.193px;
+	left: 0.35px;
+	top: 2.842px;
+	overflow: visible;
+}
+.Path_ew_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_ew {
+	overflow: visible;
+	position: absolute;
+	width: 19.086px;
+	height: 16.86px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Content_Block_ex_Class {
+	position: absolute;
+	width: 344px;
+	height: 323px;
+	left: 1153px;
+	top: 642px;
+	overflow: visible;
+}
+.METADATA_ey_Class {
+	display: none;
+	left: -23px;
+	top: 4.215px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.H6_TAGH5_ez_Class {
+	left: 123px;
+	top: 97px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(238,238,238,1);
+}
+.H6_TAGP_e_Class {
+	left: 0px;
+	top: 153px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	height: 74px;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(167,167,173,1);
+}
+.Circle_Button__e_Class {
+	position: absolute;
+	width: 56px;
+	height: 56px;
+	left: 144px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_e_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_SIZELARGESTATEDEFAULTSTYL_e_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_SIZELARGESTATEDEFAULTSTYL_e {
+	position: absolute;
+	overflow: visible;
+	width: 56px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+.Icon__e_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 16px;
+	top: 16px;
+	overflow: visible;
+}
+.METADATA_fa_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_ICONfeatherawardSIZELARGE_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_ICONfeatherawardSIZELARGE {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_e_Class {
+	position: absolute;
+	width: 14px;
+	height: 22.343px;
+	left: 5px;
+	top: 1px;
+	overflow: visible;
+}
+.Path_e_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_e {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 16px;
+	left: 0px;
+	top: 0px;
+}
+.Path_fa_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_fa {
+	overflow: visible;
+	position: absolute;
+	width: 12px;
+	height: 11.243px;
+	left: 2px;
+	top: 13.223px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Button__fa_Class {
+	position: absolute;
+	width: 144px;
+	height: 48px;
+	left: 100px;
+	top: 275px;
+	overflow: visible;
+}
+.METADATA_fb_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_fc_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_fc {
+	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+.Label_fd_Class {
+	left: 30px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(33,33,33,1);
+}
+.Icon__fe_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 108px;
+	top: 14px;
+	display: none;
+	overflow: visible;
+}
+.METADATA_ff_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_fg_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_DISPLAY_ELEMENTSLabelICON_fg {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_fh_Class {
+	position: absolute;
+	width: 17.42px;
+	height: 15.193px;
+	left: 1.291px;
+	top: 2.842px;
+	overflow: visible;
+}
+.Path_fi_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_fi {
+	overflow: visible;
+	position: absolute;
+	width: 19.086px;
+	height: 16.86px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.H6_TAGH4_Class {
+	left: 672px;
+	top: 81px;
+	position: absolute;
+	overflow: visible;
+	width: 299px;
+	white-space: nowrap;
+	line-height: 44px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(238,238,238,1);
+	letter-spacing: 0.04px;
+}
+.Line_fk_Class {
+	fill: transparent;
+	stroke: rgba(50,50,60,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_fk {
+	overflow: visible;
+	position: absolute;
+	width: 80px;
+	height: 2px;
+	left: 779.394px;
+	top: 235.88px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Video_Class {
+	position: absolute;
+	width: 1640px;
+	height: 789px;
+	left: 140px;
+	top: 2454px;
+	overflow: visible;
+}
+.METADATA_fm_Class {
+	display: none;
+	left: 0px;
+	top: -1961px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Video__Class {
+	position: absolute;
+	width: 1640px;
+	height: 789px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_fo_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Placement_Area_ASSETpanelSTATE_Class {
+	position: absolute;
+	width: 1640px;
+	height: 789px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.H6_TAGH4_fq_Class {
+	left: 682px;
+	top: 243px;
+	position: absolute;
+	overflow: visible;
+	width: 279px;
+	white-space: nowrap;
+	line-height: 44px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(238,238,238,1);
+	letter-spacing: 0.04px;
+}
+.H6_Class {
+	left: 621px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 401px;
+	height: 46px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(238,238,238,1);
+}
+.Circle_Button__fs_Class {
+	position: absolute;
+	width: 56px;
+	height: 56px;
+	left: 791.396px;
+	top: 489.418px;
+	overflow: visible;
+}
+.METADATA_ft_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_SIZELARGESTATEDEFAULTSTYL_fu_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_SIZELARGESTATEDEFAULTSTYL_fu {
+	position: absolute;
+	overflow: visible;
+	width: 56px;
+	height: 56px;
+	left: 0px;
+	top: 0px;
+}
+.Icon__fv_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 16px;
+	top: 16px;
+	overflow: visible;
+}
+.METADATA_fw_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_ICONfeatherplaySIZELARGES_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_ICONfeatherplaySIZELARGES {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_fy_Class {
+	position: absolute;
+	width: 14px;
+	height: 18px;
+	left: 5px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_fz_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_fz {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Featured_Content2_Class {
+	position: absolute;
+	width: 1640px;
+	height: 753px;
+	left: 140px;
+	top: 1701px;
+	overflow: visible;
+}
+.METADATA_f_Class {
+	display: none;
+	left: 0px;
+	top: -1000px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Background_f_Class {
+	fill: rgba(33,33,33,1);
+}
+.Background_f {
+	position: absolute;
+	overflow: visible;
+	width: 1640px;
+	height: 753px;
+	left: 0px;
+	top: 0px;
+}
+.H6_TAGH4_f_Class {
+	left: 647px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	height: 43px;
+	line-height: 44px;
+	margin-top: -5.5px;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(238,238,238,1);
+	letter-spacing: 0.04px;
+}
+.Line_f_Class {
+	fill: transparent;
+	stroke: rgba(50,50,60,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_f {
+	overflow: visible;
+	position: absolute;
+	width: 80px;
+	height: 2px;
+	left: 786.682px;
+	top: 139px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Image_Block_Class {
+	position: absolute;
+	width: 344px;
+	height: 470px;
+	left: 141px;
+	top: 203px;
+	overflow: visible;
+}
+.METADATA_ga_Class {
+	display: none;
+	left: 0px;
+	top: 0.366px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.H6_f_Class {
+	left: 97px;
+	top: 267px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(238,238,238,1);
+}
+.H6_TAGP_f_Class {
+	left: 0px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	height: 75px;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(167,167,173,1);
+}
+.Image__f_Class {
+	position: absolute;
+	width: 344px;
+	height: 234px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_gb_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_Class {
+	position: absolute;
+	width: 344px;
+	height: 234px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Button__gc_Class {
+	position: absolute;
+	width: 160px;
+	height: 48px;
+	left: 92px;
+	top: 422px;
+	overflow: visible;
+}
+.METADATA_gd_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_ge_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_ge {
+	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+.Label_gf_Class {
+	left: 38px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(33,33,33,1);
+}
+.Icon__gg_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 124px;
+	top: 14px;
+	display: none;
+	overflow: visible;
+}
+.METADATA_gh_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_gi_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_DISPLAY_ELEMENTSLabelICON_gi {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_gj_Class {
+	position: absolute;
+	width: 17.42px;
+	height: 15.193px;
+	left: 1.291px;
+	top: 2.499px;
+	overflow: visible;
+}
+.Path_gk_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_gk {
+	overflow: visible;
+	position: absolute;
+	width: 19.086px;
+	height: 16.86px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Image_Block_gl_Class {
+	position: absolute;
+	width: 344px;
+	height: 470px;
+	left: 647px;
+	top: 203px;
+	overflow: visible;
+}
+.METADATA_gm_Class {
+	display: none;
+	left: -0.254px;
+	top: 0.366px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.H6_gn_Class {
+	left: 97px;
+	top: 267px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(238,238,238,1);
+}
+.H6_TAGP_go_Class {
+	left: 0px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	height: 75px;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(167,167,173,1);
+}
+.Image__gp_Class {
+	position: absolute;
+	width: 344px;
+	height: 234px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_gq_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_gr_Class {
+	position: absolute;
+	width: 344px;
+	height: 234px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Button__gs_Class {
+	position: absolute;
+	width: 160px;
+	height: 48px;
+	left: 92px;
+	top: 422px;
+	overflow: visible;
+}
+.METADATA_gt_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_gu_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_gu {
+	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+.Label_gv_Class {
+	left: 38px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(33,33,33,1);
+}
+.Icon__gw_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 124px;
+	top: 14px;
+	display: none;
+	overflow: visible;
+}
+.METADATA_gx_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_gy_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_DISPLAY_ELEMENTSLabelICON_gy {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_gz_Class {
+	position: absolute;
+	width: 17.42px;
+	height: 15.193px;
+	left: 1.036px;
+	top: 2.499px;
+	overflow: visible;
+}
+.Path_g_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_g {
+	overflow: visible;
+	position: absolute;
+	width: 19.086px;
+	height: 16.86px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Image_Block_g_Class {
+	position: absolute;
+	width: 344px;
+	height: 470px;
+	left: 1153px;
+	top: 203px;
+	overflow: visible;
+}
+.METADATA_g_Class {
+	display: none;
+	left: 0px;
+	top: 0.366px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.H6_g_Class {
+	left: 97px;
+	top: 267px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(238,238,238,1);
+}
+.H6_TAGP_g_Class {
+	left: 0px;
+	top: 315px;
+	position: absolute;
+	overflow: visible;
+	width: 345px;
+	height: 75px;
+	line-height: 26px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(167,167,173,1);
+}
+.Image__g_Class {
+	position: absolute;
+	width: 344px;
+	height: 234px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_ha_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_g_Class {
+	position: absolute;
+	width: 344px;
+	height: 234px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Button__g_Class {
+	position: absolute;
+	width: 160px;
+	height: 48px;
+	left: 92px;
+	top: 422px;
+	overflow: visible;
+}
+.METADATA_hb_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_ha_Class {
+	fill: rgba(52,255,200,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_ha {
+	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 208px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+.Label_hb_Class {
+	left: 38px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(33,33,33,1);
+}
+.Icon__hc_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 124px;
+	top: 14px;
+	display: none;
+	overflow: visible;
+}
+.METADATA_hd_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_he_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_DISPLAY_ELEMENTSLabelICON_he {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_hf_Class {
+	position: absolute;
+	width: 17.42px;
+	height: 15.193px;
+	left: 1.291px;
+	top: 2.499px;
+	overflow: visible;
+}
+.Path_hg_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_hg {
+	overflow: visible;
+	position: absolute;
+	width: 19.086px;
+	height: 16.86px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Featured_Content1_Class {
+	position: absolute;
+	width: 1640px;
+	height: 1150px;
+	left: 140px;
+	top: 551px;
+	overflow: visible;
+}
+.METADATA_hi_Class {
+	display: none;
+	left: 0px;
+	top: -877px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Background_hj_Class {
+	fill: rgba(0,0,0,1);
+}
+.Background_hj {
+	position: absolute;
+	overflow: visible;
+	width: 1640px;
+	height: 1150px;
+	left: 0px;
+	top: 0px;
+}
+.Button__hk_Class {
+	position: absolute;
+	width: 400px;
+	height: 92.308px;
+	left: 620px;
+	top: 997px;
+	overflow: visible;
+}
+.METADATA_hl_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_hm_Class {
+	fill: rgba(146,64,161,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_hm {
+	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 448px;
+	height: 140.308px;
+	left: 0px;
+	top: 0px;
+}
+.Label_hn_Class {
+	left: 146px;
+	top: 30px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+.Icon__ho_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 172px;
+	top: 14px;
+	display: none;
+	overflow: visible;
+}
+.METADATA_hp_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_hq_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_DISPLAY_ELEMENTSLabelICON_hq {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_hr_Class {
+	position: absolute;
+	width: 17.42px;
+	height: 15.193px;
+	left: 1.291px;
+	top: 2.499px;
+	overflow: visible;
+}
+.Path_hs_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_hs {
+	overflow: visible;
+	position: absolute;
+	width: 19.086px;
+	height: 16.86px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Video_ht_Class {
+	position: absolute;
+	width: 512px;
+	height: 512px;
+	left: 564px;
+	top: 394px;
+	overflow: visible;
+}
+.METADATA_hu_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Placement_Area_Class {
+	position: absolute;
+	width: 512px;
+	height: 512px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Title_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1641px;
+	height: 359px;
+	line-height: 68px;
+	margin-top: -5px;
+	text-align: center;
+	font-family: Muli;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 58px;
+	color: rgba(255,255,255,1);
+}
+.Hero_Class {
+	position: absolute;
+	width: 1640px;
+	height: 551px;
+	left: 140px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_hy_Class {
+	display: none;
+	left: 0.066px;
+	top: 0.111px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Image__hz_Class {
+	position: absolute;
+	width: 1640px;
+	height: 551px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_h_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Placement_Area_ASSETheroSIZEDe_Class {
+	position: absolute;
+	width: 1640px;
+	height: 551px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Header_Class {
+	position: absolute;
+	width: 1396px;
+	height: 48px;
+	left: 262px;
+	top: 36px;
+	overflow: visible;
+}
+.METADATA_ia_Class {
+	display: none;
+	left: -791px;
+	top: -36px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Button__h_Class {
+	position: absolute;
+	width: 276px;
+	height: 48px;
+	left: 1120px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_ib_Class {
+	display: none;
+	left: 132px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_h_Class {
+	fill: rgba(146,64,161,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_h {
+	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
+	position: absolute;
+	overflow: visible;
+	width: 324px;
+	height: 96px;
+	left: 0px;
+	top: 0px;
+}
+.Label_h_Class {
+	left: 70px;
+	top: 13px;
+	position: absolute;
+	overflow: visible;
+	width: 137px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+.Icon__h_Class {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 240px;
+	top: 14px;
+	display: none;
+	overflow: visible;
+}
+.METADATA_ic_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_ia_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_DISPLAY_ELEMENTSLabelICON_ia {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_ib_Class {
+	position: absolute;
+	width: 17.42px;
+	height: 15.193px;
+	left: 1.291px;
+	top: 2.499px;
+	overflow: visible;
+}
+.Path_ic_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_ic {
+	overflow: visible;
+	position: absolute;
+	width: 19.086px;
+	height: 16.86px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon__id_Class {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1039.619px;
+	top: 12px;
+	overflow: visible;
+}
+.METADATA_ie_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_ICONfeathersearchSIZELARG_Class {
+	opacity: 0;
+	fill: rgba(252,252,252,1);
+}
+.Area_ICONfeathersearchSIZELARG {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_ig_Class {
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 3px;
+	top: 3px;
+	overflow: visible;
+}
+.Path_ih_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(238,238,238,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_ih {
+	position: absolute;
+	overflow: visible;
+	width: 18px;
+	height: 18px;
+	left: 0px;
+	top: 0px;
+}
+.Line_ii_Class {
+	fill: transparent;
+	stroke: rgba(238,238,238,1);
+	stroke-width: 2px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_ii {
+	overflow: visible;
+	position: absolute;
+	width: 7.178px;
+	height: 7.178px;
+	left: 13.65px;
+	top: 13.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Social_network_Class {
+	position: absolute;
+	width: 266.592px;
+	height: 36.493px;
+	left: 0px;
+	top: 8px;
+	overflow: visible;
+}
+.Icon_awesome-twitter_Class {
+	fill: rgba(0,172,238,1);
+}
+.Icon_awesome-twitter {
+	overflow: visible;
+	position: absolute;
+	width: 36px;
+	height: 29.239px;
+	left: 60.592px;
+	top: 3.381px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_awesome-discord_Class {
+	fill: rgba(114,137,218,1);
+}
+.Icon_awesome-discord {
+	overflow: visible;
+	position: absolute;
+	width: 31.5px;
+	height: 36px;
+	left: 121.592px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.favicon-isntagram_Class {
+	position: absolute;
+	width: 36px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Icon_awesome-medium-m_Class {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-medium-m {
+	overflow: visible;
+	position: absolute;
+	width: 34.01px;
+	height: 26.986px;
+	left: 232.582px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Icon_simple-tiktok_Class {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Icon_simple-tiktok {
+	overflow: visible;
+	position: absolute;
+	width: 32.276px;
+	height: 37.006px;
+	left: 175.96px;
+	top: 0.493px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Tabs_Class {
+	position: absolute;
+	width: 456px;
+	height: 42px;
+	left: 430px;
+	top: 5px;
+	overflow: visible;
+}
+.METADATA_iq_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Tab_Item_Class {
+	position: absolute;
+	width: 53px;
+	height: 42px;
+	left: 276px;
+	top: 0px;
+	overflow: visible;
+}
+.Area_Class {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_it_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Placement_Area_iu_Class {
+	opacity: 0;
+	fill: rgba(82,82,82,1);
+}
+.Placement_Area_iu {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+.Bar_Class {
+	opacity: 0;
+	fill: rgba(146,64,161,1);
+	stroke: rgba(146,64,161,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Bar {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 2px;
+	left: 0px;
+	top: 40px;
+}
+.Label_iw_Class {
+	left: 0px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(151,151,156,1);
+}
+.Tab_Item_ix_Class {
+	position: absolute;
+	width: 93px;
+	height: 42px;
+	left: 138px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_iy_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_iz_Class {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_i_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Placement_Area_i_Class {
+	opacity: 0;
+	fill: rgba(82,82,82,1);
+}
+.Placement_Area_i {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+.Bar_i_Class {
+	opacity: 0;
+	fill: rgba(146,64,161,1);
+	stroke: rgba(146,64,161,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Bar_i {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 2px;
+	left: 0px;
+	top: 40px;
+}
+.Label_i_Class {
+	left: 0px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(151,151,156,1);
+}
+.Tab_Item_i_Class {
+	position: absolute;
+	width: 59px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_ja_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_i_Class {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_jb_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Placement_Area_STATEACTIVE_Class {
+	opacity: 0;
+	fill: rgba(82,82,82,1);
+}
+.Placement_Area_STATEACTIVE {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+.Bar_STATEACTIVE_Class {
+	fill: rgba(146,64,161,1);
+	stroke: rgba(146,64,161,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Bar_STATEACTIVE {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 2px;
+	left: 0px;
+	top: 40px;
+}
+.Label_ja_Class {
+	left: 0px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(242,243,247,1);
+}
+.Tab_Item_jb_Class {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 414px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_jc_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Area_jd_Class {
+	position: absolute;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.METADATA_je_Class {
+	display: none;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 11px;
+	height: 10px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 3px;
+}
+.Placement_Area_jf_Class {
+	opacity: 0;
+	fill: rgba(82,82,82,1);
+}
+.Placement_Area_jf {
+	position: absolute;
+	overflow: visible;
+	width: 42px;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+}
+.Bar_jg_Class {
+	opacity: 0;
+	fill: rgba(146,64,161,1);
+	stroke: rgba(146,64,161,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Bar_jg {
+	overflow: visible;
+	position: absolute;
+	width: 42px;
+	height: 2px;
+	left: 0px;
+	top: 40px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Label_jh_Class {
+	left: 0px;
+	top: 6px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(151,151,156,1);
+}
