@@ -20,7 +20,7 @@
 	position: absolute;
 	width: 1920px;
 	height: 7302px;
-	background: radial-gradient(rgba(175,171,41,1) 0%, rgba(146,64,161,1) 100%);
+	background-color: rgba(0,0,0,1);
 	overflow: hidden;
 	--web-view-name: BBBears_1920;
 	--web-view-id: BBBears_1920;
@@ -52,7 +52,7 @@
 	top: 6987px;
 	overflow: visible;
 }
-.METADATA_k_Class {
+.METADATA_j_Class {
 	display: none;
 	left: 1704px;
 	top: -3148px;
@@ -136,7 +136,7 @@
 	top: 6170px;
 	overflow: visible;
 }
-.METADATA_q_Class {
+.METADATA_p_Class {
 	display: none;
 	left: 1704px;
 	top: -2651px;
@@ -202,7 +202,7 @@
 	top: 543px;
 	overflow: visible;
 }
-.METADATA_v_Class {
+.METADATA_u_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -235,7 +235,7 @@
 	top: 14px;
 	overflow: visible;
 }
-.METADATA_y_Class {
+.METADATA_x_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -396,6 +396,24 @@
 	top: 3.139px;
 	overflow: visible;
 }
+.Path_ba_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(33,33,33,1);
+	stroke-width: 1.6666666269302368px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_ba {
+	overflow: visible;
+	position: absolute;
+	width: 20.001px;
+	height: 14.551px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
 .Path_bb_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
@@ -408,31 +426,13 @@
 .Path_bb {
 	overflow: visible;
 	position: absolute;
-	width: 20.001px;
-	height: 14.551px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.Path_bc_Class {
-	fill: rgba(0,0,0,0);
-	stroke: rgba(33,33,33,1);
-	stroke-width: 1.6666666269302368px;
-	stroke-linejoin: round;
-	stroke-linecap: round;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Path_bc {
-	overflow: visible;
-	position: absolute;
 	width: 6.458px;
 	height: 7.116px;
 	left: 7.292px;
 	top: 3.734px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.Circle_Button__bd_Class {
+.Circle_Button__bc_Class {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -440,7 +440,7 @@
 	top: 543px;
 	overflow: visible;
 }
-.METADATA_be_Class {
+.METADATA_bd_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -454,10 +454,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_SIZEMEDIUMSTATEDEFAULTSTY_bf_Class {
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_be_Class {
 	fill: rgba(255,255,255,1);
 }
-.Area_SIZEMEDIUMSTATEDEFAULTSTY_bf {
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_be {
 	position: absolute;
 	overflow: visible;
 	width: 48px;
@@ -465,7 +465,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon__bg_Class {
+.Icon__bf_Class {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -473,7 +473,7 @@
 	top: 14px;
 	overflow: visible;
 }
-.METADATA_bh_Class {
+.METADATA_bg_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -499,7 +499,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_bj_Class {
+.Icon_bi_Class {
 	position: absolute;
 	width: 18.334px;
 	height: 14.953px;
@@ -507,7 +507,7 @@
 	top: 2.297px;
 	overflow: visible;
 }
-.Path_bk_Class {
+.Path_bj_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 1.6666666269302368px;
@@ -516,7 +516,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_bk {
+.Path_bj {
 	overflow: visible;
 	position: absolute;
 	width: 20px;
@@ -525,7 +525,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.Circle_Button__bl_Class {
+.Circle_Button__bk_Class {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -533,7 +533,7 @@
 	top: 543px;
 	overflow: visible;
 }
-.METADATA_bm_Class {
+.METADATA_bl_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -547,10 +547,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_SIZEMEDIUMSTATEDEFAULTSTY_bn_Class {
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bm_Class {
 	fill: rgba(255,255,255,1);
 }
-.Area_SIZEMEDIUMSTATEDEFAULTSTY_bn {
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bm {
 	position: absolute;
 	overflow: visible;
 	width: 48px;
@@ -558,7 +558,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon__bo_Class {
+.Icon__bn_Class {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -566,7 +566,7 @@
 	top: 14px;
 	overflow: visible;
 }
-.METADATA_bp_Class {
+.METADATA_bo_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -592,7 +592,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_br_Class {
+.Icon_bq_Class {
 	position: absolute;
 	width: 9.167px;
 	height: 16.666px;
@@ -600,7 +600,7 @@
 	top: 1.473px;
 	overflow: visible;
 }
-.Path_bs_Class {
+.Path_br_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 1.6666666269302368px;
@@ -609,7 +609,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_bs {
+.Path_br {
 	overflow: visible;
 	position: absolute;
 	width: 10.833px;
@@ -618,7 +618,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.Circle_Button__bt_Class {
+.Circle_Button__bs_Class {
 	position: absolute;
 	width: 48px;
 	height: 48px;
@@ -626,7 +626,7 @@
 	top: 543px;
 	overflow: visible;
 }
-.METADATA_bu_Class {
+.METADATA_bt_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -640,10 +640,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_SIZEMEDIUMSTATEDEFAULTSTY_bv_Class {
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bu_Class {
 	fill: rgba(255,255,255,1);
 }
-.Area_SIZEMEDIUMSTATEDEFAULTSTY_bv {
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bu {
 	position: absolute;
 	overflow: visible;
 	width: 48px;
@@ -651,7 +651,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon__bw_Class {
+.Icon__bv_Class {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -659,7 +659,7 @@
 	top: 14px;
 	overflow: visible;
 }
-.METADATA_bx_Class {
+.METADATA_bw_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -685,7 +685,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_bz_Class {
+.Icon_by_Class {
 	position: absolute;
 	width: 16.573px;
 	height: 16.607px;
@@ -693,7 +693,7 @@
 	top: 1.473px;
 	overflow: visible;
 }
-.Path_b_Class {
+.Path_bz_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 1.6666666269302368px;
@@ -702,7 +702,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_b {
+.Path_bz {
 	overflow: visible;
 	position: absolute;
 	width: 18.241px;
@@ -869,7 +869,7 @@
 	font-size: 18px;
 	color: rgba(34,34,45,1);
 }
-.Resource_STYLESTYLE3TAGUI_L_cc_Class {
+.Resource_STYLESTYLE3TAGUI_L_cb_Class {
 	left: 1285px;
 	top: 493px;
 	position: absolute;
@@ -883,7 +883,7 @@
 	font-size: 18px;
 	color: rgba(34,34,45,1);
 }
-.Resource_STYLESTYLE3TAGUI_L_cd_Class {
+.Resource_STYLESTYLE3TAGUI_L_cc_Class {
 	left: 1283px;
 	top: 413px;
 	position: absolute;
@@ -897,7 +897,7 @@
 	font-size: 18px;
 	color: rgba(34,34,45,1);
 }
-.Resource_STYLESTYLE3TAGUI_L_ce_Class {
+.Resource_STYLESTYLE3TAGUI_L_cd_Class {
 	left: 1283px;
 	top: 334px;
 	position: absolute;
@@ -935,7 +935,7 @@
 	top: 5361px;
 	overflow: visible;
 }
-.METADATA_ch_Class {
+.METADATA_cg_Class {
 	display: none;
 	left: -46px;
 	top: 0px;
@@ -968,7 +968,7 @@
 	top: 502px;
 	overflow: visible;
 }
-.METADATA_ck_Class {
+.METADATA_cj_Class {
 	display: none;
 	left: -658px;
 	top: -254px;
@@ -1025,7 +1025,7 @@
 	color: rgba(242,243,247,1);
 	letter-spacing: 0.4px;
 }
-.Icon__co_Class {
+.Icon__cn_Class {
 	position: absolute;
 	width: 778.26px;
 	height: 268.581px;
@@ -1034,7 +1034,7 @@
 	display: none;
 	overflow: visible;
 }
-.METADATA_cp_Class {
+.METADATA_co_Class {
 	display: none;
 	left: -2.5px;
 	top: -2.5px;
@@ -1060,7 +1060,7 @@
 	left: 758.26px;
 	top: 248.581px;
 }
-.Icon_cr_Class {
+.Icon_cq_Class {
 	position: absolute;
 	width: 15px;
 	height: 15px;
@@ -1068,7 +1068,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.Path_cs_Class {
+.Path_cr_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(62,62,62,1);
 	stroke-width: 1.6666666269302368px;
@@ -1077,7 +1077,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_cs {
+.Path_cr {
 	position: absolute;
 	overflow: visible;
 	width: 15px;
@@ -1111,7 +1111,7 @@
 	top: 502.113px;
 	overflow: visible;
 }
-.METADATA_cv_Class {
+.METADATA_cu_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -1137,7 +1137,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Label_cx_Class {
+.Label_cw_Class {
 	left: 34px;
 	top: 13px;
 	position: absolute;
@@ -1151,7 +1151,7 @@
 	font-size: 16px;
 	color: rgba(33,33,33,1);
 }
-.Icon__cy_Class {
+.Icon__cx_Class {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1160,7 +1160,7 @@
 	display: none;
 	overflow: visible;
 }
-.METADATA_cz_Class {
+.METADATA_cy_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -1326,7 +1326,7 @@
 	font-size: 16px;
 	color: rgba(238,238,238,1);
 }
-.Button__dc_Class {
+.Button__db_Class {
 	position: absolute;
 	width: 144px;
 	height: 48px;
@@ -1334,7 +1334,7 @@
 	top: 666px;
 	overflow: visible;
 }
-.METADATA_dd_Class {
+.METADATA_dc_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -1348,10 +1348,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_de_Class {
+.Area_DISPLAY_ELEMENTSLabelSIZE_dd_Class {
 	fill: rgba(52,255,200,1);
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_de {
+.Area_DISPLAY_ELEMENTSLabelSIZE_dd {
 	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
 	position: absolute;
 	overflow: visible;
@@ -1360,7 +1360,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Label_df_Class {
+.Label_de_Class {
 	left: 30px;
 	top: 13px;
 	position: absolute;
@@ -1374,7 +1374,7 @@
 	font-size: 16px;
 	color: rgba(33,33,33,1);
 }
-.Icon__dg_Class {
+.Icon__df_Class {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1383,7 +1383,7 @@
 	display: none;
 	overflow: visible;
 }
-.METADATA_dh_Class {
+.METADATA_dg_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -1397,11 +1397,11 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelICON_di_Class {
+.Area_DISPLAY_ELEMENTSLabelICON_dh_Class {
 	opacity: 0;
 	fill: rgba(252,252,252,1);
 }
-.Area_DISPLAY_ELEMENTSLabelICON_di {
+.Area_DISPLAY_ELEMENTSLabelICON_dh {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -1409,7 +1409,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_dj_Class {
+.Icon_di_Class {
 	position: absolute;
 	width: 17.42px;
 	height: 15.193px;
@@ -1417,7 +1417,7 @@
 	top: 2.666px;
 	overflow: visible;
 }
-.Path_dk_Class {
+.Path_dj_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 1.6666666269302368px;
@@ -1426,7 +1426,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_dk {
+.Path_dj {
 	overflow: visible;
 	position: absolute;
 	width: 19.086px;
@@ -1443,7 +1443,7 @@
 	top: 3243px;
 	overflow: visible;
 }
-.METADATA_dm_Class {
+.METADATA_dl_Class {
 	display: none;
 	left: -47px;
 	top: -2495px;
@@ -1457,10 +1457,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Background_dn_Class {
+.Background_dm_Class {
 	fill: rgba(33,33,33,1);
 }
-.Background_dn {
+.Background_dm {
 	position: absolute;
 	overflow: visible;
 	width: 1640px;
@@ -1476,7 +1476,7 @@
 	top: 642px;
 	overflow: visible;
 }
-.METADATA_dp_Class {
+.METADATA_do_Class {
 	display: none;
 	left: -23px;
 	top: 4.215px;
@@ -1522,7 +1522,7 @@
 	font-size: 16px;
 	color: rgba(167,167,173,1);
 }
-.Circle_Button__ds_Class {
+.Circle_Button__dr_Class {
 	position: absolute;
 	width: 56px;
 	height: 56px;
@@ -1530,7 +1530,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.METADATA_dt_Class {
+.METADATA_ds_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -1555,7 +1555,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon__dv_Class {
+.Icon__du_Class {
 	position: absolute;
 	width: 24px;
 	height: 24px;
@@ -1563,7 +1563,7 @@
 	top: 16px;
 	overflow: visible;
 }
-.METADATA_dw_Class {
+.METADATA_dv_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -1589,7 +1589,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_dy_Class {
+.Icon_dx_Class {
 	position: absolute;
 	width: 20px;
 	height: 20.343px;
@@ -1597,7 +1597,7 @@
 	top: 2px;
 	overflow: visible;
 }
-.Path_dz_Class {
+.Path_dy_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 2px;
@@ -1606,7 +1606,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_dz {
+.Path_dy {
 	position: absolute;
 	overflow: visible;
 	width: 8px;
@@ -1614,7 +1614,7 @@
 	left: 7px;
 	top: 0px;
 }
-.Line_d_Class {
+.Line_dz_Class {
 	fill: transparent;
 	stroke: rgba(33,33,33,1);
 	stroke-width: 2px;
@@ -1623,7 +1623,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_d {
+.Line_dz {
 	overflow: visible;
 	position: absolute;
 	width: 2px;
@@ -1759,7 +1759,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.Content_Block_eb_Class {
+.Content_Block_ea_Class {
 	position: absolute;
 	width: 344px;
 	height: 323px;
@@ -1767,7 +1767,7 @@
 	top: 642px;
 	overflow: visible;
 }
-.METADATA_ec_Class {
+.METADATA_eb_Class {
 	display: none;
 	left: -23.941px;
 	top: 4.215px;
@@ -1781,7 +1781,7 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.H6_TAGH5_ed_Class {
+.H6_TAGH5_ec_Class {
 	left: 123px;
 	top: 97px;
 	position: absolute;
@@ -1797,7 +1797,7 @@
 	font-size: 25px;
 	color: rgba(238,238,238,1);
 }
-.H6_TAGP_ee_Class {
+.H6_TAGP_ed_Class {
 	left: 0px;
 	top: 153px;
 	position: absolute;
@@ -1813,7 +1813,7 @@
 	font-size: 16px;
 	color: rgba(167,167,173,1);
 }
-.Circle_Button__ef_Class {
+.Circle_Button__ee_Class {
 	position: absolute;
 	width: 56px;
 	height: 56px;
@@ -1821,7 +1821,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.METADATA_eg_Class {
+.METADATA_ef_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -1835,10 +1835,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_SIZELARGESTATEDEFAULTSTYL_eh_Class {
+.Area_SIZELARGESTATEDEFAULTSTYL_eg_Class {
 	fill: rgba(52,255,200,1);
 }
-.Area_SIZELARGESTATEDEFAULTSTYL_eh {
+.Area_SIZELARGESTATEDEFAULTSTYL_eg {
 	position: absolute;
 	overflow: visible;
 	width: 56px;
@@ -1846,7 +1846,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon__ei_Class {
+.Icon__eh_Class {
 	position: absolute;
 	width: 24px;
 	height: 24px;
@@ -1854,7 +1854,7 @@
 	top: 16px;
 	overflow: visible;
 }
-.METADATA_ej_Class {
+.METADATA_ei_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -1880,7 +1880,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_el_Class {
+.Icon_ek_Class {
 	position: absolute;
 	width: 16px;
 	height: 19.657px;
@@ -1888,7 +1888,7 @@
 	top: 2.343px;
 	overflow: visible;
 }
-.Path_em_Class {
+.Path_el_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 2px;
@@ -1897,7 +1897,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_em {
+.Path_el {
 	overflow: visible;
 	position: absolute;
 	width: 18px;
@@ -1906,7 +1906,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.Line_en_Class {
+.Line_em_Class {
 	fill: transparent;
 	stroke: rgba(33,33,33,1);
 	stroke-width: 2px;
@@ -1915,7 +1915,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_en {
+.Line_em {
 	overflow: visible;
 	position: absolute;
 	width: 2px;
@@ -1924,7 +1924,7 @@
 	top: 12.657px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.Button__eo_Class {
+.Button__en_Class {
 	position: absolute;
 	width: 144px;
 	height: 48px;
@@ -1932,7 +1932,7 @@
 	top: 275px;
 	overflow: visible;
 }
-.METADATA_ep_Class {
+.METADATA_eo_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -1946,10 +1946,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_eq_Class {
+.Area_DISPLAY_ELEMENTSLabelSIZE_ep_Class {
 	fill: rgba(52,255,200,1);
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_eq {
+.Area_DISPLAY_ELEMENTSLabelSIZE_ep {
 	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
 	position: absolute;
 	overflow: visible;
@@ -1958,7 +1958,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Label_er_Class {
+.Label_eq_Class {
 	left: 30px;
 	top: 13px;
 	position: absolute;
@@ -1972,7 +1972,7 @@
 	font-size: 16px;
 	color: rgba(33,33,33,1);
 }
-.Icon__es_Class {
+.Icon__er_Class {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -1981,7 +1981,7 @@
 	display: none;
 	overflow: visible;
 }
-.METADATA_et_Class {
+.METADATA_es_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -1995,11 +1995,11 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelICON_eu_Class {
+.Area_DISPLAY_ELEMENTSLabelICON_et_Class {
 	opacity: 0;
 	fill: rgba(252,252,252,1);
 }
-.Area_DISPLAY_ELEMENTSLabelICON_eu {
+.Area_DISPLAY_ELEMENTSLabelICON_et {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -2007,7 +2007,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_ev_Class {
+.Icon_eu_Class {
 	position: absolute;
 	width: 17.42px;
 	height: 15.193px;
@@ -2015,7 +2015,7 @@
 	top: 2.842px;
 	overflow: visible;
 }
-.Path_ew_Class {
+.Path_ev_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 1.6666666269302368px;
@@ -2024,7 +2024,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_ew {
+.Path_ev {
 	overflow: visible;
 	position: absolute;
 	width: 19.086px;
@@ -2033,7 +2033,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.Content_Block_ex_Class {
+.Content_Block_ew_Class {
 	position: absolute;
 	width: 344px;
 	height: 323px;
@@ -2041,7 +2041,7 @@
 	top: 642px;
 	overflow: visible;
 }
-.METADATA_ey_Class {
+.METADATA_ex_Class {
 	display: none;
 	left: -23px;
 	top: 4.215px;
@@ -2055,7 +2055,7 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.H6_TAGH5_ez_Class {
+.H6_TAGH5_ey_Class {
 	left: 123px;
 	top: 97px;
 	position: absolute;
@@ -2071,7 +2071,7 @@
 	font-size: 25px;
 	color: rgba(238,238,238,1);
 }
-.H6_TAGP_e_Class {
+.H6_TAGP_ez_Class {
 	left: 0px;
 	top: 153px;
 	position: absolute;
@@ -2197,7 +2197,7 @@
 	top: 13.223px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.Button__fa_Class {
+.Button__e_Class {
 	position: absolute;
 	width: 144px;
 	height: 48px;
@@ -2219,10 +2219,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_fc_Class {
+.Area_DISPLAY_ELEMENTSLabelSIZE_fb_Class {
 	fill: rgba(52,255,200,1);
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_fc {
+.Area_DISPLAY_ELEMENTSLabelSIZE_fb {
 	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
 	position: absolute;
 	overflow: visible;
@@ -2231,7 +2231,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Label_fd_Class {
+.Label_fc_Class {
 	left: 30px;
 	top: 13px;
 	position: absolute;
@@ -2245,7 +2245,7 @@
 	font-size: 16px;
 	color: rgba(33,33,33,1);
 }
-.Icon__fe_Class {
+.Icon__fd_Class {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -2254,7 +2254,7 @@
 	display: none;
 	overflow: visible;
 }
-.METADATA_ff_Class {
+.METADATA_fe_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -2268,11 +2268,11 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelICON_fg_Class {
+.Area_DISPLAY_ELEMENTSLabelICON_ff_Class {
 	opacity: 0;
 	fill: rgba(252,252,252,1);
 }
-.Area_DISPLAY_ELEMENTSLabelICON_fg {
+.Area_DISPLAY_ELEMENTSLabelICON_ff {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -2280,7 +2280,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_fh_Class {
+.Icon_fg_Class {
 	position: absolute;
 	width: 17.42px;
 	height: 15.193px;
@@ -2288,7 +2288,7 @@
 	top: 2.842px;
 	overflow: visible;
 }
-.Path_fi_Class {
+.Path_fh_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 1.6666666269302368px;
@@ -2297,7 +2297,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_fi {
+.Path_fh {
 	overflow: visible;
 	position: absolute;
 	width: 19.086px;
@@ -2323,7 +2323,7 @@
 	color: rgba(238,238,238,1);
 	letter-spacing: 0.04px;
 }
-.Line_fk_Class {
+.Line_fj_Class {
 	fill: transparent;
 	stroke: rgba(50,50,60,1);
 	stroke-width: 2px;
@@ -2332,7 +2332,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Line_fk {
+.Line_fj {
 	overflow: visible;
 	position: absolute;
 	width: 80px;
@@ -2349,7 +2349,7 @@
 	top: 2454px;
 	overflow: visible;
 }
-.METADATA_fm_Class {
+.METADATA_fl_Class {
 	display: none;
 	left: 0px;
 	top: -1961px;
@@ -2371,7 +2371,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.METADATA_fo_Class {
+.METADATA_fn_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -2393,7 +2393,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.H6_TAGH4_fq_Class {
+.H6_TAGH4_fp_Class {
 	left: 682px;
 	top: 243px;
 	position: absolute;
@@ -2424,7 +2424,7 @@
 	font-size: 16px;
 	color: rgba(238,238,238,1);
 }
-.Circle_Button__fs_Class {
+.Circle_Button__fr_Class {
 	position: absolute;
 	width: 56px;
 	height: 56px;
@@ -2432,7 +2432,7 @@
 	top: 489.418px;
 	overflow: visible;
 }
-.METADATA_ft_Class {
+.METADATA_fs_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -2446,10 +2446,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_SIZELARGESTATEDEFAULTSTYL_fu_Class {
+.Area_SIZELARGESTATEDEFAULTSTYL_ft_Class {
 	fill: rgba(52,255,200,1);
 }
-.Area_SIZELARGESTATEDEFAULTSTYL_fu {
+.Area_SIZELARGESTATEDEFAULTSTYL_ft {
 	position: absolute;
 	overflow: visible;
 	width: 56px;
@@ -2457,7 +2457,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon__fv_Class {
+.Icon__fu_Class {
 	position: absolute;
 	width: 24px;
 	height: 24px;
@@ -2465,7 +2465,7 @@
 	top: 16px;
 	overflow: visible;
 }
-.METADATA_fw_Class {
+.METADATA_fv_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -2491,7 +2491,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_fy_Class {
+.Icon_fx_Class {
 	position: absolute;
 	width: 14px;
 	height: 18px;
@@ -2499,7 +2499,7 @@
 	top: 3px;
 	overflow: visible;
 }
-.Path_fz_Class {
+.Path_fy_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 2px;
@@ -2508,7 +2508,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_fz {
+.Path_fy {
 	overflow: visible;
 	position: absolute;
 	width: 16px;
@@ -2667,7 +2667,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.Button__gc_Class {
+.Button__gb_Class {
 	position: absolute;
 	width: 160px;
 	height: 48px;
@@ -2675,7 +2675,7 @@
 	top: 422px;
 	overflow: visible;
 }
-.METADATA_gd_Class {
+.METADATA_gc_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -2689,10 +2689,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_ge_Class {
+.Area_DISPLAY_ELEMENTSLabelSIZE_gd_Class {
 	fill: rgba(52,255,200,1);
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_ge {
+.Area_DISPLAY_ELEMENTSLabelSIZE_gd {
 	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
 	position: absolute;
 	overflow: visible;
@@ -2701,7 +2701,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Label_gf_Class {
+.Label_ge_Class {
 	left: 38px;
 	top: 13px;
 	position: absolute;
@@ -2715,7 +2715,7 @@
 	font-size: 16px;
 	color: rgba(33,33,33,1);
 }
-.Icon__gg_Class {
+.Icon__gf_Class {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -2724,7 +2724,7 @@
 	display: none;
 	overflow: visible;
 }
-.METADATA_gh_Class {
+.METADATA_gg_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -2738,11 +2738,11 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelICON_gi_Class {
+.Area_DISPLAY_ELEMENTSLabelICON_gh_Class {
 	opacity: 0;
 	fill: rgba(252,252,252,1);
 }
-.Area_DISPLAY_ELEMENTSLabelICON_gi {
+.Area_DISPLAY_ELEMENTSLabelICON_gh {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -2750,7 +2750,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_gj_Class {
+.Icon_gi_Class {
 	position: absolute;
 	width: 17.42px;
 	height: 15.193px;
@@ -2758,7 +2758,7 @@
 	top: 2.499px;
 	overflow: visible;
 }
-.Path_gk_Class {
+.Path_gj_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 1.6666666269302368px;
@@ -2767,7 +2767,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_gk {
+.Path_gj {
 	overflow: visible;
 	position: absolute;
 	width: 19.086px;
@@ -2776,7 +2776,7 @@
 	top: 0px;
 	transform: matrix(1,0,0,1,0,0);
 }
-.Image_Block_gl_Class {
+.Image_Block_gk_Class {
 	position: absolute;
 	width: 344px;
 	height: 470px;
@@ -2784,7 +2784,7 @@
 	top: 203px;
 	overflow: visible;
 }
-.METADATA_gm_Class {
+.METADATA_gl_Class {
 	display: none;
 	left: -0.254px;
 	top: 0.366px;
@@ -2798,7 +2798,7 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.H6_gn_Class {
+.H6_gm_Class {
 	left: 97px;
 	top: 267px;
 	position: absolute;
@@ -2812,7 +2812,7 @@
 	font-size: 16px;
 	color: rgba(238,238,238,1);
 }
-.H6_TAGP_go_Class {
+.H6_TAGP_gn_Class {
 	left: 0px;
 	top: 315px;
 	position: absolute;
@@ -2828,7 +2828,7 @@
 	font-size: 16px;
 	color: rgba(167,167,173,1);
 }
-.Image__gp_Class {
+.Image__go_Class {
 	position: absolute;
 	width: 344px;
 	height: 234px;
@@ -2836,7 +2836,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.METADATA_gq_Class {
+.METADATA_gp_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -2850,7 +2850,7 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Placement_Area_ASSETsmallSIZED_gr_Class {
+.Placement_Area_ASSETsmallSIZED_gq_Class {
 	position: absolute;
 	width: 344px;
 	height: 234px;
@@ -2858,7 +2858,7 @@
 	top: 0px;
 	overflow: visible;
 }
-.Button__gs_Class {
+.Button__gr_Class {
 	position: absolute;
 	width: 160px;
 	height: 48px;
@@ -2866,7 +2866,7 @@
 	top: 422px;
 	overflow: visible;
 }
-.METADATA_gt_Class {
+.METADATA_gs_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -2880,10 +2880,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_gu_Class {
+.Area_DISPLAY_ELEMENTSLabelSIZE_gt_Class {
 	fill: rgba(52,255,200,1);
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_gu {
+.Area_DISPLAY_ELEMENTSLabelSIZE_gt {
 	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
 	position: absolute;
 	overflow: visible;
@@ -2892,7 +2892,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Label_gv_Class {
+.Label_gu_Class {
 	left: 38px;
 	top: 13px;
 	position: absolute;
@@ -2906,7 +2906,7 @@
 	font-size: 16px;
 	color: rgba(33,33,33,1);
 }
-.Icon__gw_Class {
+.Icon__gv_Class {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -2915,7 +2915,7 @@
 	display: none;
 	overflow: visible;
 }
-.METADATA_gx_Class {
+.METADATA_gw_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -2929,11 +2929,11 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelICON_gy_Class {
+.Area_DISPLAY_ELEMENTSLabelICON_gx_Class {
 	opacity: 0;
 	fill: rgba(252,252,252,1);
 }
-.Area_DISPLAY_ELEMENTSLabelICON_gy {
+.Area_DISPLAY_ELEMENTSLabelICON_gx {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -2941,7 +2941,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_gz_Class {
+.Icon_gy_Class {
 	position: absolute;
 	width: 17.42px;
 	height: 15.193px;
@@ -2949,7 +2949,7 @@
 	top: 2.499px;
 	overflow: visible;
 }
-.Path_g_Class {
+.Path_gz_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 1.6666666269302368px;
@@ -2958,7 +2958,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_g {
+.Path_gz {
 	overflow: visible;
 	position: absolute;
 	width: 19.086px;
@@ -3071,10 +3071,10 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_ha_Class {
+.Area_DISPLAY_ELEMENTSLabelSIZE_g_Class {
 	fill: rgba(52,255,200,1);
 }
-.Area_DISPLAY_ELEMENTSLabelSIZE_ha {
+.Area_DISPLAY_ELEMENTSLabelSIZE_g {
 	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
 	position: absolute;
 	overflow: visible;
@@ -3083,7 +3083,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Label_hb_Class {
+.Label_ha_Class {
 	left: 38px;
 	top: 13px;
 	position: absolute;
@@ -3097,7 +3097,7 @@
 	font-size: 16px;
 	color: rgba(33,33,33,1);
 }
-.Icon__hc_Class {
+.Icon__hb_Class {
 	position: absolute;
 	width: 20px;
 	height: 20px;
@@ -3106,7 +3106,7 @@
 	display: none;
 	overflow: visible;
 }
-.METADATA_hd_Class {
+.METADATA_hc_Class {
 	display: none;
 	left: 0px;
 	top: 0px;
@@ -3120,11 +3120,11 @@
 	font-weight: normal;
 	font-size: 3px;
 }
-.Area_DISPLAY_ELEMENTSLabelICON_he_Class {
+.Area_DISPLAY_ELEMENTSLabelICON_hd_Class {
 	opacity: 0;
 	fill: rgba(252,252,252,1);
 }
-.Area_DISPLAY_ELEMENTSLabelICON_he {
+.Area_DISPLAY_ELEMENTSLabelICON_hd {
 	position: absolute;
 	overflow: visible;
 	width: 20px;
@@ -3132,7 +3132,7 @@
 	left: 0px;
 	top: 0px;
 }
-.Icon_hf_Class {
+.Icon_he_Class {
 	position: absolute;
 	width: 17.42px;
 	height: 15.193px;
@@ -3140,7 +3140,7 @@
 	top: 2.499px;
 	overflow: visible;
 }
-.Path_hg_Class {
+.Path_hf_Class {
 	fill: rgba(0,0,0,0);
 	stroke: rgba(33,33,33,1);
 	stroke-width: 1.6666666269302368px;
@@ -3149,7 +3149,7 @@
 	stroke-miterlimit: 4;
 	shape-rendering: auto;
 }
-.Path_hg {
+.Path_hf {
 	overflow: visible;
 	position: absolute;
 	width: 19.086px;
@@ -3166,7 +3166,7 @@
 	top: 551px;
 	overflow: visible;
 }
-.METADATA_hi_Class {
+.METADATA_hh_Class {
 	display: none;
 	left: 0px;
 	top: -877px;
@@ -3181,7 +3181,7 @@
 	font-size: 3px;
 }
 .Background_hj_Class {
-	fill: rgba(0,0,0,1);
+	fill: url(#Background_hj);
 }
 .Background_hj {
 	position: absolute;
@@ -3214,7 +3214,7 @@
 	font-size: 3px;
 }
 .Area_DISPLAY_ELEMENTSLabelSIZE_hm_Class {
-	fill: rgba(146,64,161,1);
+	fill: rgba(176,121,255,1);
 }
 .Area_DISPLAY_ELEMENTSLabelSIZE_hm {
 	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
@@ -3305,7 +3305,7 @@
 	width: 512px;
 	height: 512px;
 	left: 564px;
-	top: 394px;
+	top: 439px;
 	overflow: visible;
 }
 .METADATA_hu_Class {
@@ -3332,7 +3332,7 @@
 }
 .Title_Class {
 	left: 0px;
-	top: 0px;
+	top: 34px;
 	position: absolute;
 	overflow: visible;
 	width: 1641px;
@@ -3443,7 +3443,7 @@
 	font-size: 3px;
 }
 .Area_DISPLAY_ELEMENTSLabelSIZE_h_Class {
-	fill: rgba(146,64,161,1);
+	fill: rgba(176,121,255,1);
 }
 .Area_DISPLAY_ELEMENTSLabelSIZE_h {
 	filter: drop-shadow(0px 8px 16px rgba(52, 255, 200, 0.102));
