@@ -56,6 +56,79 @@ header .container {
   align-items: center;
 }
 
+.Header_Class {
+	position: absolute;
+	width: 453px;
+	height: 27px;
+	left: 692px;
+	top: 47px;
+	overflow: visible;
+}
+.Tabs_Class {
+	position: absolute;
+	width: 453px;
+	height: 27px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Label_Class {
+	left: 276px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(151,151,156,1);
+}
+.Label_m_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 60px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(242,243,247,1);
+}
+.Label_n_Class {
+	left: 414px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(151,151,156,1);
+}
+.Label_o_Class {
+	left: 128px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(242,243,247,1);
+}
+
 /* BUTTONS */
 
 .btn {
