@@ -66,7 +66,7 @@
 	overflow: visible;
 }
 #Area_DISPLAY_ELEMENTSLabelSIZE {
-	fill: #CC00FC;/*rgba(81,91,212,1);*/
+	fill: #8247e5
 }
 .Area_DISPLAY_ELEMENTSLabelSIZE {
 	position: absolute;
@@ -302,7 +302,7 @@ section {
   top: 175px;
   position: absolute;
   overflow: visible;
-  width: 1000px;
+  width: 500px;
   height: 129px;
   text-align: left;
   font-family: Soleil;
