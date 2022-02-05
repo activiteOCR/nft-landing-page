@@ -61,7 +61,7 @@
 	position: absolute;
 	width: 250px;
 	height: 83.333px;
-	left: 299.5px;
+	left: 1340px;
 	top: 325px;
 	overflow: visible;
 }
@@ -100,7 +100,7 @@
 	overflow: visible;
 }
 #Bankable_Brown_Bears_a_collect {
-	left: 140px;
+	left: 1180px;
 	top: 152px;
 	position: absolute;
 	overflow: visible;
@@ -290,11 +290,11 @@ section {
 /* OWNER STYLES */
 
 .owner-status {
-  left: 800px;
+  left: 140px;
   top: 152px;
   position: absolute;
   overflow: visible;
-  width: 570px;
+  width: 1000px;
   height: 129px;
   text-align: left;
   font-family: Soleil;
