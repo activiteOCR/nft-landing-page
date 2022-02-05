@@ -290,9 +290,7 @@ section {
 /* OWNER STYLES */
 
 .owner-status {
-  /*font-size: 2rem;*/
-  /*text-align: right;*/
-  left: 540px;
+  left: 800px;
   top: 152px;
   position: absolute;
   overflow: visible;
