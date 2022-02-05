@@ -12,6 +12,9 @@
 }
 :root {
 	--web-view-ids: Starter;
+  --font-color: #000000;
+  --btn-bg-color: #ffffff;
+  --accent-color: #000000;
 }
 * {
 	margin: 0;
@@ -59,11 +62,11 @@
 	width: 250px;
 	height: 83.333px;
 	left: 299.5px;
-	top: 362.084px;
+	top: 325px;
 	overflow: visible;
 }
 #Area_DISPLAY_ELEMENTSLabelSIZE {
-	fill: rgba(81,91,212,1);
+	fill: #CC00FC;/*rgba(81,91,212,1);*/
 }
 .Area_DISPLAY_ELEMENTSLabelSIZE {
 	position: absolute;
@@ -131,9 +134,11 @@
   font-size: 1rem;
   text-transform: capitalize;
   transition: all 0.3s ease;
-  box-shadow: 4px 4px 0 0 var(--accent-color);
+  box-shadow: 2px 2px 0 0 var(--accent-color);
   cursor: pointer;
   position: relative;
+  right: 50px;
+  bottom: 2px;
   text-decoration: none;
   outline: none;
 }
@@ -286,7 +291,8 @@ section {
 
 .owner-status {
   font-size: 2rem;
-  text-align: center;
+  text-align: left;/*center;*/
+  border: solid;
 }
 
 /* MEDIA QUERIES */
