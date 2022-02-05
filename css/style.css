@@ -291,8 +291,7 @@ section {
 
 .owner-status {
   font-size: 2rem;
-  text-align: left;/*center;*/
-  border: solid;
+  text-align: right;
 }
 
 /* MEDIA QUERIES */
