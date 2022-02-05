@@ -61,8 +61,8 @@
 	position: absolute;
 	width: 250px;
 	height: 83.333px;
-	left: 1340px;
-	top: 325px;
+	left: 800px;
+	top: 350px;
 	overflow: visible;
 }
 #Area_DISPLAY_ELEMENTSLabelSIZE {
@@ -101,7 +101,7 @@
 }
 #Bankable_Brown_Bears_a_collect {
 	left: 1180px;
-	top: 152px;
+	top: 175px;
 	position: absolute;
 	overflow: visible;
 	width: 570px;
@@ -215,6 +215,14 @@
 	top: 13px;
 	overflow: visible;
 }
+#matic {
+	position: absolute;
+	width: 250px;
+	height: 250px;
+	left: 800px;
+	top: 100px;
+	overflow: visible;
+}
 #bears_illustration {
 	position: absolute;
 	width: 1110px;
@@ -291,7 +299,7 @@ section {
 
 .owner-status {
   left: 140px;
-  top: 152px;
+  top: 175px;
   position: absolute;
   overflow: visible;
   width: 1000px;
