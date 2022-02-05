@@ -58,17 +58,7 @@
 	top: 60px;
 }
 #Button_ {
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-	height: 100%;
-	background: #8247e5;
-	border-radius: 5rem;
-	padding: 1.5rem 3rem;
 	position: absolute;
-	width: 250px;
-	height: 83.333px;
 	left: 800px;
 	top: 352px;
 	color: #FFFFFF;
@@ -210,7 +200,7 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 }
-#Mint {
+#Drop {
 	left: 168px;
 	top: 0px;
 	position: absolute;
@@ -224,8 +214,22 @@
 	font-size: 24px;
 	color: rgba(0,0,0,1);
 }
-#FAQ {
+#Mint {
 	left: 319px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Soleil;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+}
+#FAQ {
+	left: 488px;
 	top: 0px;
 	position: absolute;
 	overflow: visible;
@@ -268,6 +272,14 @@
 	height: 180px;
 	left: 200px;
 	top: 1072px;
+	overflow: visible;
+}
+#myGif {
+	position: absolute;
+	width: 256px;
+	height: 256px;
+	left: 200px;
+	top: 375px;
 	overflow: visible;
 }
 /* COUNTDOWN SECTION */
