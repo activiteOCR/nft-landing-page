@@ -290,8 +290,20 @@ section {
 /* OWNER STYLES */
 
 .owner-status {
-  font-size: 2rem;
-  text-align: right;
+  /*font-size: 2rem;*/
+  /*text-align: right;*/
+  left: 540px;
+  top: 152px;
+  position: absolute;
+  overflow: visible;
+  width: 570px;
+  height: 129px;
+  text-align: left;
+  font-family: Soleil;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 34px;
+  color: rgba(72,72,72,1);
 }
 
 /* MEDIA QUERIES */
