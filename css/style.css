@@ -58,15 +58,34 @@
 	top: 60px;
 }
 #Button_ {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	background: #8247e5;
+	border-radius: 5rem;
+	padding: 1.5rem 3rem;
 	position: absolute;
 	width: 250px;
 	height: 83.333px;
 	left: 800px;
-	top: 350px;
+	top: 352px;
+	color: #FFFFFF;
 	overflow: visible;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
+}
+#Button_:hover {
+	box-shadow: none;
 }
 #Area_DISPLAY_ELEMENTSLabelSIZE {
-	fill: #8247e5
+	fill: #8247e5;
+	
 }
 .Area_DISPLAY_ELEMENTSLabelSIZE {
 	position: absolute;
@@ -124,38 +143,50 @@
 /* BUTTONS */
 
 .btn {
-  display: inline-block;
-  padding: 1rem 2rem;
-  background: var(--btn-bg-color);
-  color: var(--accent-color);
-  font-family: var(--font-secondary);
-  font-style: italic;
-  font-weight: bold;
-  font-size: 1rem;
-  text-transform: capitalize;
-  transition: all 0.3s ease;
-  box-shadow: 2px 2px 0 0 var(--accent-color);
-  cursor: pointer;
-  position: relative;
-  right: 50px;
-  bottom: 2px;
-  text-decoration: none;
-  outline: none;
+	display: inline-block;
+	padding: 1rem 2rem;
+	background: var(--btn-bg-color);
+	color: var(--accent-color);
+	font-family: var(--font-secondary);
+	font-style: italic;
+	font-weight: bold;
+	font-size: 1rem;
+	text-transform: capitalize;
+	transition: all 0.3s ease;
+	box-shadow: 2px 2px 0 0 var(--accent-color);
+	cursor: pointer;
+	position: relative;
+	right: 50px;
+	bottom: 2px;
+	text-decoration: none;
+	outline: none;
 }
 .btn:hover {
-  box-shadow: none;
+	box-shadow: none;
 }
 
 .wallet-btn {
-  border-radius: 5rem;
-  margin-left: 2rem;
-  border-color: transparent;
+	border-radius: 5rem;
+	margin-left: 2rem;
+	border-color: transparent;
 }
 
 .hero-btn {
-  border-radius: 4px;
-  font-size: 1.2rem;
-  padding: 1.5rem 3rem;
+	background: #0088FF;
+	border-radius: 5rem;
+	padding: 1.5rem 3rem;
+	position: absolute;
+	width: 300px;
+	height: 83.333px;
+	left: 340px;
+	color: #FFFFFF;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 26px;
 }
 #nav {
 	position: absolute;
@@ -242,82 +273,89 @@
 /* COUNTDOWN SECTION */
 
 section {
-  flex: 1 1 auto;
+	position: absolute;
+	width: 1000px;
+	height: 500px;
+	left: 450px;
+	top: 1200px;
+	overflow: visible;
 }
 
 .countdown {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
 }
 
 .countdown ul {
-  display: flex;
-  gap: 2rem
+	display: flex;
+	gap: 2rem
 }
 .countdown .clock-item {
-  list-style: none;
-  width: 70px;
-  height: auto;
+	list-style: none;
+	width: 70px;
+	height: auto;
 }
 .countdown .clock-item .count-number {
-  background: var(--accent-color);
-  color: var(--font-color);
-  font-size: 2rem;
-  font-weight: 700;
-  font-family: var(--font-secondary);
-  padding: 1rem;
-  display: inline-block;
-  width: 100%;
-  text-align: center;
-  line-height: 1;
-  border-radius: 4px 4px 0 0;
+	background: #0088FF;
+	padding: 1rem;
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	font-family: Soleil;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: #FFFFFF;
+	line-height: 1;
+	border-radius: 4px 4px 0 0;
 }
 .countdown .clock-item .count-text {
-  background: var(--btn-bg-color);
-  font-family: var(--font-secondary);
-  font-size: 1.1rem;
-  color: var(--bg-color);
-  padding: 0.5rem 0.7rem;
-  display: inline-block;
-  width: 100%;
-  text-align: center;
-  line-height: 1;
-  border-radius: 0 0 4px 4px;
+	background: var(--btn-bg-color);
+	font-family: var(--font-secondary);
+	font-size: 1.1rem;
+	color: var(--bg-color);
+	padding: 0.5rem 0.7rem;
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	line-height: 1;
+	border-radius: 0 0 4px 4px;
 }
 
 .countdown h1 {
-  text-shadow: 2px 2px 0 var(--accent-color);
-  font-style: italic;
-  margin: 2rem 0;
-  font-size: 3.5rem;
-  text-align: center;
+	text-shadow: 2px 2px 0 var(--btn-bg-color);
+	font-style: italic;
+	margin: 2rem 0;
+	font-size: 3.5rem;
+	text-align: center;
+	color: rgba(72,72,72,1);
 }
 
 .countdown p {
-  font-size: 1.1rem;
-  font-family: var(--font-secondary);
-  margin-bottom: 2rem;
-  text-align: center;
+	font-size: 1.6rem;
+	font-family: var(--font-secondary);
+	margin-bottom: 2rem;
+	text-align: center;
 }
 
 /* OWNER STYLES */
 
 .owner-status {
-  left: 140px;
-  top: 175px;
-  position: absolute;
-  overflow: visible;
-  width: 500px;
-  height: 129px;
-  text-align: left;
-  font-family: Soleil;
-  font-style: normal;
-  font-weight: bold;
-  font-size: 34px;
-  color: rgba(72,72,72,1);
+	left: 140px;
+	top: 175px;
+	position: absolute;
+	overflow: visible;
+	width: 500px;
+	height: 129px;
+	text-align: left;
+	font-family: Soleil;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(72,72,72,1);
 }
 
 /* MEDIA QUERIES */
