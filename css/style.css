@@ -376,8 +376,8 @@ section {
   
 
   #Starter{
-    width: auto;
-    margin-bottom: 15px;
+    width: 320;
+    /*margin-bottom: 15px;*/
   }
   .menu {
     gap: 1rem;
