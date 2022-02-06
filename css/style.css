@@ -375,10 +375,10 @@ section {
 @media all and (max-device-width: 480px) {
   
 
-  #Starter{
+ /* #Starter{
     width: auto;
     margin-bottom: 15px;
-  }
+  }*/
   .wallet-btn {
     margin-left: 0;
     padding: 1rem;
