@@ -376,8 +376,8 @@ section {
   
 
   #Starter{
-    width: 320px;
-    /*margin-bottom: 15px;*/
+    width: auto;
+    margin-bottom: 15px;
   }
   .wallet-btn {
     margin-left: 0;
