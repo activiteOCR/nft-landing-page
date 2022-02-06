@@ -393,13 +393,13 @@ section {
   }
   #Bankable_Brown_Bears_a_collect {
 	left: 45px;
-	top: 175px;
+	top: 135px;
 	width: 270px;
 	height: 229px;
   }
   #Button_ {
 	left: 50px;
-	top: 475px;
+	top: 450px;
   }
   #myGif {
 	position: absolute;
@@ -419,7 +419,7 @@ section {
 	top: 1400px;
   }
   .countdown .clock-item {
-	width: 35px;
+	width: 65px;
   }
   .countdown h1 {
     font-size: 2rem;
