@@ -379,9 +379,6 @@ section {
     width: 320;
     /*margin-bottom: 15px;*/
   }
-  .menu {
-    gap: 1rem;
-  }
   .wallet-btn {
     margin-left: 0;
     padding: 1rem;
