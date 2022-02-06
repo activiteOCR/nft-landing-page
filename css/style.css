@@ -392,7 +392,7 @@ section {
 	  display: none;
   }
   #Bankable_Brown_Bears_a_collect {
-	left: 50px;
+	left: 45px;
 	top: 175px;
 	width: 270px;
 	height: 229px;
@@ -408,12 +408,15 @@ section {
 	left: 50px;
 	top: 700px;
 	overflow: visible;
-}
+  }
   .wallet-btn {
 	display: none;
-    margin-left: 0;
-    padding: 1rem;
-    max-width: 8rem;
+  }
+  section {
+	width: 250px;
+	height: 125px;
+	left: 50px;
+	top: 1200px;
   }
   .countdown h1 {
     font-size: 2rem;
