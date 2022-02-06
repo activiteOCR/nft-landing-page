@@ -420,7 +420,6 @@ section {
   }
   .countdown {
 	position: absolute;
-	left:5px;
   }
   .countdown h1 {
     font-size: 2rem;
