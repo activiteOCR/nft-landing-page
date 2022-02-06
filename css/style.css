@@ -373,6 +373,12 @@ section {
 /* MEDIA QUERIES */
 
 @media screen and (max-device-width: 480px) {
+  
+
+  #Starter{
+    width: auto;
+    margin-bottom: 15px;
+  }
   .menu {
     gap: 1rem;
   }
