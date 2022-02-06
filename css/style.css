@@ -413,10 +413,13 @@ section {
 	display: none;
   }
   section {
-	width: 200px;
-	height: 100px;
+	width: 250px;
+	height: 125px;
 	left: 50px;
 	top: 1400px;
+  }
+  .countdown ul {
+	gap: 1.5rem
   }
   .countdown h1 {
     font-size: 2rem;
