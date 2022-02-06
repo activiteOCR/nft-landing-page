@@ -391,6 +391,12 @@ section {
   #favicon-32x32 {
 	  display: none;
   }
+  #Bankable_Brown_Bears_a_collect {
+	left: 50px;
+	top: 175px;
+	width: 270px;
+	height: 229px;
+}
   #myGif {
 	position: absolute;
 	width: 256px;
