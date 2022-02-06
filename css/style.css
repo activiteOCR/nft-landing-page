@@ -391,9 +391,6 @@ section {
   #favicon-32x32 {
 	  display: none;
   }
-  #Social_network {
-	gap: 2rem;
-  }
   #myGif {
 	position: absolute;
 	width: 256px;
