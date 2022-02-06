@@ -418,8 +418,8 @@ section {
 	left: 50px;
 	top: 1400px;
   }
-  .countdown ul {
-	gap: 1.5rem
+  .countdown .clock-item {
+	width: 35px;
   }
   .countdown h1 {
     font-size: 2rem;
