@@ -385,7 +385,17 @@ section {
   .rect_white1 {
 	width: auto;
   }
-
+  #nav {
+	display: none;
+  }
+  #myGif {
+	position: absolute;
+	width: 256px;
+	height: 256px;
+	left: 100px;
+	top: 500px;
+	overflow: visible;
+}
   .wallet-btn {
 	display: none;
     margin-left: 0;
