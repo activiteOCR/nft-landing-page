@@ -418,8 +418,9 @@ section {
 	left: 50px;
 	top: 1400px;
   }
-  .countdown .clock-item {
-	width: 65px;
+  .countdown {
+	position: absolute;
+	left:30px;
   }
   .countdown h1 {
     font-size: 2rem;
