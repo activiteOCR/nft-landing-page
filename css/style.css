@@ -396,7 +396,11 @@ section {
 	top: 175px;
 	width: 270px;
 	height: 229px;
-}
+  }
+  #Button_ {
+	left: 150px;
+	top: 352px;
+  }
   #myGif {
 	position: absolute;
 	width: 256px;
