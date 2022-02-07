@@ -306,8 +306,6 @@
 	position: absolute;
 	width: 256px;
 	height: 256px;
-	/*left: 235px;
-	top: 325px;*/
 	left: 810px;
 	top: 545px;
 	overflow: visible;
@@ -462,7 +460,7 @@ footer {
   #Mint_Zone {
 	left: 45px;
 	top: 2100px;
-	width: 570px;
+	width: 270px;
 	height: 129px;
 	font-size: 24px;
 }
@@ -478,6 +476,10 @@ footer {
 	top: 700px;
 	overflow: visible;
   }
+  #V1_Pass {
+	left: 50px;
+	top: 2500px;
+}
   .wallet-btn {
 	display: none;
   }
