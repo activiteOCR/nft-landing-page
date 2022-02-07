@@ -492,7 +492,7 @@ footer {
   section {
 	width: auto;/*260px;*/
 	height: 130px;
-	left: 50px;
+	left: auto; /*50px;*/
 	top: 1400px;
   }
   .countdown h1 {
@@ -502,6 +502,7 @@ footer {
     font-size: 1rem;
   }
   footer {
+	left: auto;
 	width:auto;/*260px;*/
 	font-size: 16px;
 }
