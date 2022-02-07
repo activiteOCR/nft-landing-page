@@ -460,13 +460,13 @@ footer {
   #Bankable_Brown_Bears_a_collect {
 	left: 45px;
 	top: 125px;
-	width: 270px;
+	width: auto;/*270px;*/
 	height: 229px;
   }
   #Mint_Zone {
 	left: 45px;
 	top: 2100px;
-	width: 270px;
+	width: auto;/*270px;*/
 	height: 129px;
 	font-size: 24px;
 }
@@ -476,7 +476,7 @@ footer {
   }
   #myGif {
 	position: absolute;
-	width: 256px;
+	width: auto;/*256px;*/
 	height: 256px;
 	left: 50px;
 	top: 700px;
@@ -490,7 +490,7 @@ footer {
 	display: none;
   }
   section {
-	width: 260px;
+	width: auto;/*260px;*/
 	height: 130px;
 	left: 50px;
 	top: 1400px;
@@ -501,4 +501,8 @@ footer {
   .countdown p {
     font-size: 1rem;
   }
+  footer {
+	width:auto;/*260px;*/
+	font-size: 16px;
+}
 }
