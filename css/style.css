@@ -24,7 +24,7 @@
 }
 #Starter {
 	position: absolute;
-	width: 1920px;
+	width: 1900px;
 	height: 2900px;
 	background-color: rgba(246,244,252,1);
 	overflow: hidden;
@@ -40,7 +40,7 @@
 .rect_blue_1 {
 	position: absolute;
 	overflow: visible;
-	width: 1920px;
+	width: 1900px;
 	height: 552px;
 	left: 0px;
 	top: 650px;
@@ -51,10 +51,10 @@
 .rect_blue_2 {
 	position: absolute;
 	overflow: visible;
-	width: 1920px;
-	height: 552px;
+	width: 1900px;
+	height: 550px;
 	left: 0px;
-	top: 1650px;
+	top: 1850px;
 }
 #rect_white1 {
 	fill: rgba(252,252,252,1);
@@ -63,10 +63,22 @@
 	mix-blend-mode: lighten;
 	position: absolute;
 	overflow: visible;
-	width: 1920px;
+	width:1900px;
 	height: 590px;
 	left: 0px;
 	top: 60px;
+}
+#rect_white2 {
+	fill: rgba(252,252,252,1);
+}
+.rect_white2 {
+	mix-blend-mode: lighten;
+	position: absolute;
+	overflow: visible;
+	width:1900px;
+	height: 300px;
+	left: 0px;
+	top: 2400px;
 }
 #Button_ {
 	position: absolute;
@@ -382,16 +394,15 @@ section {
 }
 
 /* FOOTER STYLES */
-/*Footer section start here*/
 footer {
-	background-color: #00102e;
+	/*background-color: #00102e;*/
 	background-size: contain;
 	background-repeat: no-repeat;
 	left: 140px;
-	top: 2250px;
+	top: 2850px;
 	position: absolute;
 	overflow: visible;
-	width: 1920px;
+	width:1900px;
 	height: 50px;
 	text-align: left;
 	font-family: Soleil;
