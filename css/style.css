@@ -459,6 +459,13 @@ footer {
 	width: 270px;
 	height: 229px;
   }
+  #Mint_Zone {
+	left: 45px;
+	top: 2100px;
+	width: 570px;
+	height: 129px;
+	font-size: 24px;
+}
   #Button_ {
 	left: 50px;
 	top: 450px;
