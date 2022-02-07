@@ -25,7 +25,7 @@
 #Starter {
 	position: absolute;
 	width: 1900px;
-	height: 1900px;
+	height: 2900px;
 	background-color: rgba(246,244,252,1);
 	overflow: hidden;
 	--web-view-name: Starter;
@@ -34,16 +34,27 @@
 	--web-show-navigation-controls: true;
 	--web-enable-deep-linking: true;
 }
-#rect_blue_i {
+#rect_blue_1 {
 	fill: url(#rect_blue_i);
 }
-.rect_blue_i {
+.rect_blue_1 {
 	position: absolute;
 	overflow: visible;
-	width: 1900px;
+	width: 1920px;
 	height: 552px;
 	left: 0px;
 	top: 650px;
+}
+#rect_blue_2 {
+	fill: url(#rect_blue_i);
+}
+.rect_blue_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 552px;
+	left: 0px;
+	top: 1650px;
 }
 #rect_white1 {
 	fill: rgba(252,252,252,1);
@@ -377,11 +388,11 @@ footer {
 	background-size: contain;
 	background-repeat: no-repeat;
 	left: 140px;
-	top: 1750px;
+	top: 2250px;
 	position: absolute;
 	overflow: visible;
-	width: 1900px;
-	height: 150px;
+	width: 1920px;
+	height: 50px;
 	text-align: left;
 	font-family: Soleil;
 	font-style: normal;
