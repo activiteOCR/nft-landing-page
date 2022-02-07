@@ -75,8 +75,8 @@
 	mix-blend-mode: lighten;
 	position: absolute;
 	overflow: visible;
-	width:1900px;
-	height: 300px;
+	width:2000px;
+	height: 400px;
 	left: 0px;
 	top: 2400px;
 }
@@ -398,18 +398,18 @@ footer {
 	/*background-color: #00102e;*/
 	background-size: contain;
 	background-repeat: no-repeat;
-	left: 140px;
+	left: 950px;
 	top: 2850px;
 	position: absolute;
 	overflow: visible;
 	width:1900px;
 	height: 50px;
-	text-align: left;
+	text-align: center;
 	font-family: Soleil;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 14px;
-	color: #fff;
+	font-size: 25px;
+	color: rgba(72,72,72,1);
 }
 
 /* MEDIA QUERIES */
