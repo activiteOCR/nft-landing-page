@@ -76,9 +76,9 @@
 	position: absolute;
 	overflow: visible;
 	width:1900px;
-	height: 400px;
+	height: 300px;
 	left: 0px;
-	top: 2800px;
+	top: 2400px;
 }
 #Button_ {
 	position: absolute;
@@ -93,12 +93,8 @@
 	font-weight: bold;
 	font-size: 26px;
 }
-#Button_:hover {
-	box-shadow: none;
-}
 #Area_DISPLAY_ELEMENTSLabelSIZE {
 	fill: #8247e5;
-	
 }
 .Area_DISPLAY_ELEMENTSLabelSIZE {
 	position: absolute;
@@ -301,8 +297,10 @@
 	position: absolute;
 	width: 256px;
 	height: 256px;
-	left: 235px;
-	top: 325px;
+	/*left: 235px;
+	top: 325px;*/
+	left: 810px;
+	top: 545px;
 	overflow: visible;
 }
 /* COUNTDOWN SECTION */
