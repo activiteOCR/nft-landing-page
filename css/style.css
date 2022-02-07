@@ -490,7 +490,7 @@ footer {
 	display: none;
   }
   section {
-	width: auto;/*260px;*/
+	width: 260px;
 	height: 130px;
 	left: auto; /*50px;*/
 	top: 1400px;
@@ -502,7 +502,7 @@ footer {
     font-size: 1rem;
   }
   footer {
-	left: auto;
+	left: 50px;
 	width:auto;/*260px;*/
 	font-size: 16px;
 }
