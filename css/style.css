@@ -277,6 +277,15 @@
 	top: 100px;
 	overflow: visible;
 }
+#V1_Pass {
+	position: absolute;
+	border-radius: 3rem;
+	width: 256px;
+	height: 256px;
+	left: 825px;
+	top: 2500px;
+	overflow: visible;
+}
 #bears_illustration {
 	position: absolute;
 	width: 1110px;
