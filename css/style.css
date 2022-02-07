@@ -439,10 +439,16 @@ footer {
     width: auto;
     /*margin-bottom: 15px;*/
   }
-  .rect_blue_i {
+  .rect_blue_1 {
 	width: auto;
   }
   .rect_white1 {
+	width: auto;
+  }
+  .rect_blue_2 {
+	width: auto;
+  }
+  .rect_white2 {
 	width: auto;
   }
   #nav {
