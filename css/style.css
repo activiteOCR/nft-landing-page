@@ -458,7 +458,7 @@ footer {
 	  display: none;
   }
   #Bankable_Brown_Bears_a_collect {
-	left: 45px;
+	left: auto; /*45px;*/
 	top: 125px;
 	width: auto;/*270px;*/
 	height: 229px;
