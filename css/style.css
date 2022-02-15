@@ -1,17 +1,41 @@
-/* FONTS */
+/* Définition des polices personnalisées */
 
 @import url("https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 
+@font-face
+{
+    font-family: 'BallparkWeiner';
+    src: url('polices/ballpark.eot');
+    src: url('polices/ballpark.eot?#iefix') format('embedded-opentype'),
+         url('polices/ballpark.woff') format('woff'),
+         url('polices/ballpark.ttf') format('truetype'),
+         url('polices/ballpark.svg#BallparkWeiner') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face
+{
+    font-family: 'Dayrom';
+    src: url('polices/dayrom.eot');
+    src: url('polices/dayrom.eot?#iefix') format('embedded-opentype'),
+         url('polices/dayrom.woff') format('woff'),
+         url('polices/dayrom.ttf') format('truetype'),
+         url('polices/dayrom.svg#Dayrom') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 /* GLOBAL STYLES */
 .mediaViewInfo {
-	--web-view-name: Starter;
-	--web-view-id: Starter;
+	--web-view-name: bloc_page;
+	--web-view-id: bloc_page;
 	--web-scale-on-resize: true;
 	--web-show-navigation-controls: true;
 	--web-enable-deep-linking: true;
 }
 :root {
-	--web-view-ids: Starter;
+	--web-view-ids: bloc_page;
   --font-color: #000000;
   --btn-bg-color: #ffffff;
   --accent-color: #000000;
@@ -22,129 +46,94 @@
 	box-sizing: border-box;
 	border: none;
 }
-#Starter {
-	position: absolute;
-	width: 1900px;
-	height: 2900px;
-	background-color: rgba(246,244,252,1);
-	overflow: hidden;
-	--web-view-name: Starter;
-	--web-view-id: Starter;
-	--web-scale-on-resize: true;
-	--web-show-navigation-controls: true;
-	--web-enable-deep-linking: true;
+
+/* Eléments principaux de la page */
+
+body
+{
+    background-color: rgba(246,244,252,1);
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #181818;
 }
-#rect_blue_1 {
-	fill: url(#rect_blue_1);
+
+#bloc_page
+{
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
 }
-.rect_blue_1 {
-	position: absolute;
-	overflow: visible;
-	width: 1900px;
-	height: 552px;
-	left: 0px;
-	top: 650px;
+
+section h1, footer h1, nav a
+{
+    font-family: Dayrom, serif;
+    font-weight: normal;
+    text-transform: uppercase;
 }
-#rect_blue_2 {
-	fill: url(#rect_blue_2);
+
+/* Header */
+
+header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
 }
-.rect_blue_2 {
-	position: absolute;
-	overflow: visible;
-	width: 1900px;
-	height: 550px;
-	left: 0px;
-	top: 1850px;
+
+#titre_principal
+{
+    display: flex;
+    flex-direction: column;
 }
-#rect_white1 {
-	fill: rgba(252,252,252,1);
+
+#logo
+{
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
 }
-.rect_white1 {
-	mix-blend-mode: lighten;
-	position: absolute;
-	overflow: visible;
-	width:1900px;
-	height: 590px;
-	left: 0px;
-	top: 60px;
+
+#logo img
+{
+    width: 59px;
+    height: 60px;
 }
-#rect_white2 {
-	fill: rgba(252,252,252,1);
+
+/* Navigation */
+
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+	gap: 3rem;
+	align-items: center;
 }
-.rect_white2 {
-	mix-blend-mode: lighten;
-	position: absolute;
-	overflow: visible;
-	width:1900px;
-	height: 300px;
-	left: 0px;
-	top: 2400px;
+
+nav li
+{
+    margin-right: 15px;
 }
-#Button_ {
-	position: absolute;
-	left: 1350px;
-	top: 352px;
-	color: #FFFFFF;
-	overflow: visible;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Noto Sans;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 26px;
-}
-#Area_DISPLAY_ELEMENTSLabelSIZE {
-	fill: #8247e5;
-}
-.Area_DISPLAY_ELEMENTSLabelSIZE {
-	position: absolute;
-	overflow: visible;
-	width: 250px;
-	height: 83.333px;
-	left: 0px;
-	top: 0px;
-}
-#Label {
-	left: 68px;
-	top: 23.667px;
-	position: absolute;
-	overflow: visible;
-	width: 115px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: Noto Sans;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 26px;
-	color: rgba(255,255,255,1);
-}
-#Icon_ {
-	position: absolute;
-	width: 20px;
-	height: 20px;
-	left: 108px;
-	top: 14px;
-	display: none;
-	overflow: visible;
-}
-#Bankable_Brown_Bears_a_collect {
-	left: 1180px;
-	top: 175px;
-	position: absolute;
-	overflow: visible;
-	width: 570px;
-	height: 129px;
-	text-align: center;
+
+nav a
+{
+    padding-bottom: 3px;
+    text-decoration: none;
+    white-space: nowrap;
+	text-align: left;
 	font-family: Soleil;
 	font-style: normal;
-	font-weight: bold;
-	font-size: 34px;
-	color: rgba(72,72,72,1);
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
 }
+
+nav a:hover
+{
+    color: #8247e5;
+    border-bottom: 3px solid #8247e5;
+}
+
 #Social_network {
 	display: flex;
-	justify-content: flex-end;
-	height: 60px;
 	gap: 3rem;
 	align-items: center;
 }
@@ -185,9 +174,10 @@
 	border-radius: 5rem;
 	padding: 1.5rem 3rem;
 	position: absolute;
-	width: 300px;
-	height: 83.333px;
-	left: 340px;
+	width: 330px;
+	height: 84px;
+	left: 50%;
+    transform: translate(-50%, -50%);
 	color: #FFFFFF;
 	overflow: visible;
 	white-space: nowrap;
@@ -195,130 +185,117 @@
 	font-family: Noto Sans;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 26px;
+	font-size: 23px;
 }
-#nav {
-	position: absolute;
-	width: 366px;
-	height: 31px;
-	left: 343px;
-	top: 14px;
-	overflow: visible;
-}
-#About {
-	left: 0px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 69px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Soleil;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-}
-#Drop {
-	left: 168px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 52px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Soleil;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-}
-#Mint {
-	left: 319px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 52px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Soleil;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-}
-#FAQ {
-	left: 488px;
-	top: 0px;
-	position: absolute;
-	overflow: visible;
-	width: 48px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: Soleil;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 24px;
-	color: rgba(0,0,0,1);
-}
-#favicon-32x32 {
-	position: absolute;
-	width: 32px;
-	height: 32px;
-	left: 151px;
-	top: 13px;
-	overflow: visible;
-}
-#matic {
-	position: absolute;
-	width: 250px;
-	height: 250px;
-	left: 800px;
-	top: 100px;
-	overflow: visible;
-}
-#V1_Pass {
-	position: absolute;
-	border-radius: 3rem;
-	width: 256px;
-	height: 256px;
-	left: 825px;
-	top: 2500px;
-	overflow: visible;
-}
-#bears_illustration {
-	position: absolute;
-	width: 1110px;
-	height: 660px;
-	left: 683px;
-	top: 505px;
-	overflow: visible;
-}
-#toy {
-	position: absolute;
-	width: 181px;
-	height: 180px;
-	left: 200px;
-	top: 1072px;
-	overflow: visible;
-}
-#myGif {
-	position: absolute;
-	width: 256px;
-	height: 256px;
-	left: 810px;
-	top: 545px;
-	overflow: visible;
-}
-/* COUNTDOWN SECTION */
 
-section {
-	position: absolute;
-	width: 1000px;
-	height: 500px;
-	left: 450px;
-	top: 1200px;
+#About
+{
+    display: flex;
+    position: relative;
+    margin-top: 15px;
+    background-color: #FFFFFF;
+    height: 660px;
+    width: 100%;
+}
+
+/* OWNER STYLES */
+
+.owner-status {
+    position: absolute;
 	overflow: visible;
+    max-width: 30%;
+    top: 20%;
+    left: 5%;
+	text-align: center;
+	font-family: Soleil;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(72,72,72,1);
+}
+
+#Bankable_Brown_Bears_a_collect {
+    position: absolute;
+	overflow: visible;
+    max-width: 30%;
+    top: 20%;
+    right: 5%;
+	text-align: center;
+	font-family: Soleil;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(72,72,72,1);
+}
+
+#myGif {
+    position: absolute;
+	max-width: 33%;
+	height: 33%;
+    top: 40%;
+    right: 50%;
+    transform: translate(50%, -50%);
+	overflow: visible;
+}
+
+.opensea-btn
+{
+    display: flex-end;
+    position: absolute;
+    width: 15%;
+    bottom: 40%;
+    right: 11%;
+    background: #8247e5;
+	border-radius: 5rem;
+	padding: 1.5rem 3rem;
+	color: #FFFFFF;
+	overflow: visible;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Noto Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 23px;
+}
+
+/* Corps */
+
+section
+{
+    display: flex;
+    position: relative;
+    overflow: visible;
+    background: linear-gradient(#cc00fc, #08f);
+    height: 660px;
+    width: 100%;
+}
+
+#bears_illustration {
+    position: absolute;
+    top: 35%;
+    right: 50%;
+    transform: translate(50%, -50%);
+	max-width: 100%;
+	height: 100%;
+    margin-bottom: 50px;
+}
+
+#toy {
+    position: absolute;
+    bottom: 21%;
+    left: 25%;
+    /*transform: translate(-50%, -50%);*/
+	max-width: 25%;
+	height: 25%;
+}
+
+#Drop
+{
+    position: relative;
+    overflow: visible;
+    background-color: #FFFFFF;
+    height: 660px;
+    width: 100%;
 }
 
 .countdown {
@@ -381,129 +358,214 @@ section {
 	text-align: center;
 }
 
-/* OWNER STYLES */
+#Roadmap_no_bkg {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+	max-width: 90%;
+	height: 90%;
+}
 
-.owner-status {
-	left: 140px;
-	top: 175px;
+#Mint {
+    display: flex;
+    position: relative;
+    background-color: #FFFFFF;
+    height: 660px;
+    width: 100%;
+}
+
+#Mint_zone {
+    position: absolute;
+	overflow: visible;
+    max-width: 30%;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+	text-align: center;
+	font-family: Soleil;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(72,72,72,1);
+}
+
+#FAQ {
+    display: flex;
+    position: relative;
+    background-color: #FFFFFF;
+    height: 660px;
+    width: 100%;
+}
+
+.collapsible {
+	background-color: #777;
 	position: absolute;
 	overflow: visible;
-	width: 500px;
-	height: 129px;
+	top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+	color: white;
+	cursor: pointer;
+	padding: 18px;
+	max-width: 50%;
+	border: none;
 	text-align: left;
-	font-family: Soleil;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 34px;
-	color: rgba(72,72,72,1);
-}
-#Mint_Zone {
-	left: 675px;
-	top: 2100px;
-	position: absolute;
-	overflow: visible;
-	width: 570px;
-	height: 129px;
-	text-align: center;
-	font-family: Soleil;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 34px;
-	color: #FFFFFF;
-}
-/* FOOTER STYLES */
-footer {
-	/*background-color: #00102e;*/
-	background-size: contain;
-	background-repeat: no-repeat;
-	left: 0px;
-	top: 2850px;
-	position: absolute;
-	overflow: visible;
-	width:1900px;
-	height: 50px;
-	text-align: center;
-	font-family: Soleil;
-	font-style: normal;
-	font-weight: bold;
-	font-size: 19px;
-	color: rgba(72,72,72,1);
-}
-
-/* MEDIA QUERIES */
-
-@media all and (max-device-width: 600px) {
+	outline: none;
+	font-size: 15px;
+  }
   
-
-  #Starter{
-    width: auto;
-    /*margin-bottom: 15px;*/
+  .active, .collapsible:hover {
+	background-color: #555;
   }
-  .rect_blue_1 {
-	width: auto;
+  
+  .collapsible:after {
+	content: '\002B';
+	color: white;
+	font-weight: bold;
+	float: right;
+	margin-left: 5px;
   }
-  .rect_white1 {
-	width: auto;
+  
+  .active:after {
+	content: "\2212";
   }
-  .rect_blue_2 {
-	width: auto;
-  }
-  .rect_white2 {
-	width: auto;
-  }
-  #nav {
-	display: none;
-  }
-  #favicon-32x32 {
-	  display: none;
-  }
-  #Bankable_Brown_Bears_a_collect {
-	left: auto; /*45px;*/
-	top: 125px;
-	width: auto;/*270px;*/
-	height: 229px;
-  }
-  #Mint_Zone {
-	left: 45px;
-	top: 2100px;
-	width: auto;/*270px;*/
-	height: 129px;
-	font-size: 24px;
-}
-  #Button_ {
-	left: 50px;
-	top: 450px;
-  }
-  #myGif {
+  
+  .content {
 	position: absolute;
-	width: auto;/*256px;*/
-	height: 256px;
-	left: 50px;
-	top: 700px;
-	overflow: visible;
+	overflow: hidden;
+	bottom: 42%;
+    right: 50%;
+    transform: translate(50%, -50%);
+	padding: 0 18px;
+	max-height: 0;
+	transition: max-height 0.2s ease-out;
+	background-color: #f1f1f1;
   }
-  #V1_Pass {
-	left: 50px;
-	top: 2500px;
+
+/* Footer */
+
+footer
+{
+    display: flex;
+    background:  url('../html/images/ico_top.png') no-repeat top center, url('../html/images/separateur.png') repeat-x top, url('../html/images/ombre.png') repeat-x top;
+    padding-top: 25px;
 }
-  .wallet-btn {
-	display: none;
-  }
-  section {
-	width: 260px;
-	height: 130px;
-	left: 50px;
-	top: 1400px;
-  }
-  .countdown h1 {
-    font-size: 2rem;
-  }
-  .countdown p {
-    font-size: 1rem;
-  }
-  footer {
-	left: 125px;
-	width:auto;/*260px;*/
-	font-size: 16px;
+
+footer p, footer ul
+{
+    font-size: 0.8em;
 }
+
+footer h1
+{
+    font-size: 1.1em;
+}
+
+
+#tweet
+{
+    width: 28%;
+}
+
+#mes_photos
+{
+    width: 35%;
+}
+
+#mes_amis
+{
+    width: 31%;
+}
+
+#mes_photos img
+{
+    border: 1px solid #181818;
+    margin-right: 2px;
+}
+
+#listes_amis
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0;
+}
+
+#mes_amis ul
+{
+    list-style-image: url('../html/images/ico_liensexterne.png');
+    padding-left: 2px;
+}
+
+#mes_amis a
+{
+    text-decoration: none;
+    color: #760001;
+}
+
+@media all and (max-width: 1024px)
+{
+    #bloc_page
+    {
+        width: auto;
+    }
+    
+      nav
+    {
+        width: auto;
+        text-align: left;
+    }
+    
+    nav ul
+    {
+        flex-direction: column;
+    }
+
+    nav li
+    {
+        padding-left: 4px;
+    }
+    
+    nav a
+    {
+        font-size: 1.1em;
+    }
+    
+    nav a:hover
+    {
+        border-bottom: 0;
+    }
+    
+    #banniere_image
+    {
+        display: none;
+    }
+    
+    section
+    {
+        flex-direction: column;
+    }
+
+    article, aside
+    {
+        width: auto;
+        margin-bottom: 15px;
+    }
+    
+    #fleche_bulle
+    {
+        display: none;
+    }
+    
+    #photo_zozor img
+    {
+        width: 110px;
+        float: right;
+        margin-left: 15px;
+    }
+    
+    aside p:last-child
+    {
+        text-align: center;
+    }
 }
