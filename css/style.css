@@ -100,21 +100,15 @@ header
 
 /* Navigation */
 
-nav ul
-{
+.topnav {
+    overflow: hidden;
     list-style-type: none;
     display: flex;
 	gap: 3rem;
 	align-items: center;
-}
-
-nav li
-{
-    margin-right: 15px;
-}
-
-nav a
-{
+  }
+  
+  .topnav a {
     padding-bottom: 3px;
     text-decoration: none;
     white-space: nowrap;
@@ -124,13 +118,18 @@ nav a
 	font-weight: normal;
 	font-size: 24px;
 	color: rgba(0,0,0,1);
-}
-
-nav a:hover
-{
+  }
+  
+  .topnav a:hover {
     color: #8247e5;
     border-bottom: 3px solid #8247e5;
-}
+
+  }
+  
+  .topnav .icon {
+    display: none;
+  }
+
 
 #Social_network {
 	display: flex;
@@ -284,7 +283,6 @@ section
     position: absolute;
     bottom: 21%;
     left: 25%;
-    /*transform: translate(-50%, -50%);*/
 	max-width: 25%;
 	height: 25%;
 }
@@ -463,59 +461,30 @@ section
 footer
 {
     display: flex;
-    background:  url('../html/images/ico_top.png') no-repeat top center, url('../html/images/separateur.png') repeat-x top, url('../html/images/ombre.png') repeat-x top;
+    /*background:  url('../html/images/ico_top.png') no-repeat top center, url('../html/images/separateur.png') repeat-x top, url('../html/images/ombre.png') repeat-x top;*/
     padding-top: 25px;
 }
 
-footer p, footer ul
-{
-    font-size: 0.8em;
+@media screen and (max-width: 60px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+      float: center;
+      display: block;
+    }
 }
 
-footer h1
-{
-    font-size: 1.1em;
-}
-
-
-#tweet
-{
-    width: 28%;
-}
-
-#mes_photos
-{
-    width: 35%;
-}
-
-#mes_amis
-{
-    width: 31%;
-}
-
-#mes_photos img
-{
-    border: 1px solid #181818;
-    margin-right: 2px;
-}
-
-#listes_amis
-{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 0;
-}
-
-#mes_amis ul
-{
-    list-style-image: url('../html/images/ico_liensexterne.png');
-    padding-left: 2px;
-}
-
-#mes_amis a
-{
-    text-decoration: none;
-    color: #760001;
+@media screen and (max-width: 60px) {
+    .topnav.responsive {position: relative;}
+    .topnav.responsive .icon {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .topnav.responsive a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
 }
 
 @media all and (max-width: 1024px)
@@ -525,62 +494,45 @@ footer h1
         width: auto;
     }
     
-      nav
-    {
-        width: auto;
-        text-align: left;
-    }
-    
-    nav ul
-    {
-        flex-direction: column;
-    }
-
-    nav li
-    {
-        padding-left: 4px;
-    }
-    
-    nav a
-    {
-        font-size: 1.1em;
-    }
-    
-    nav a:hover
-    {
-        border-bottom: 0;
-    }
-    
-    #banniere_image
+    #logo
     {
         display: none;
     }
+
+    .topnav {
+        display: none;
+      }
     
-    section
-    {
-        flex-direction: column;
+    #Social_network {
+        gap: 2rem;
+        align-items: center;
     }
 
-    article, aside
-    {
-        width: auto;
-        margin-bottom: 15px;
-    }
-    
-    #fleche_bulle
-    {
+    .wallet-btn {
         display: none;
     }
     
-    #photo_zozor img
-    {
-        width: 110px;
-        float: right;
-        margin-left: 15px;
+    #myGif {
+        display: none;
     }
-    
-    aside p:last-child
-    {
-        text-align: center;
+
+    #Bankable_Brown_Bears_a_collect {
+        max-width: 50%;
+        top: 30%;
+        right: 50%;
+        transform: translate(50%, -50%);
+        font-size: 25px;
     }
+
+
+    .opensea-btn{
+    /*display: flex;
+    position: absolute;*/
+    width: 50%;
+    top: 60%;
+    right: 50%;
+    transform: translate(50%, -50%);
+	font-size: 15px;
+    }
+
 }
